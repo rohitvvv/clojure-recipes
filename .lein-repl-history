@@ -1,0 +1,19 @@
+(printNumbers)
+(main)
+(-main)
+(printNumbers)
+(main)
+(-main)
+lein tewst
+lein test
+exit
+(-main)
+lein test
+exit
+lein test
+lein repl
+exit
+(greet "hi")
+(foo)
+(printNumbers)
+exit

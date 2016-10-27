@@ -1,0 +1,2008 @@
+Microsoft Windows [Version 6.1.7601]
+Copyright (c) 2009 Microsoft Corporation.  All rights reserved.
+
+c:\Users\rvaidya\Downloads\bin>cd ..
+cd ..
+
+c:\Users\rvaidya\Downloads>cd ..
+cd ..
+
+c:\Users\rvaidya>cd ..
+cd ..
+
+c:\Users>cd rvaidya/Downloads/
+cd rvaidya/Downloads/
+
+c:\Users\rvaidya\Downloads>ls
+ls
+'ls' is not recognized as an internal or external command,
+operable program or batch file.
+
+c:\Users\rvaidya\Downloads>git clone https://github.com/rohitvvv/clojure-recipes.git
+git clone https://github.com/rohitvvv/clojure-recipes.git
+Cloning into 'clojure-recipes'...
+warning: You appear to have cloned an empty repository.
+
+c:\Users\rvaidya\Downloads>cd clojure-recipes/
+cd clojure-recipes/
+
+c:\Users\rvaidya\Downloads\clojure-recipes>ls
+ls
+'ls' is not recognized as an internal or external command,
+operable program or batch file.
+
+c:\Users\rvaidya\Downloads\clojure-recipes>dir
+dir
+ Volume in drive C is OS
+ Volume Serial Number is 8EF7-A26E
+
+ Directory of c:\Users\rvaidya\Downloads\clojure-recipes
+
+10/27/2016  12:26 PM    <DIR>          .
+10/27/2016  12:26 PM    <DIR>          ..
+               0 File(s)              0 bytes
+               2 Dir(s)  126,638,166,016 bytes free
+
+c:\Users\rvaidya\Downloads\clojure-recipes>touch Readme
+touch Readme
+'touch' is not recognized as an internal or external command,
+operable program or batch file.
+
+c:\Users\rvaidya\Downloads\clojure-recipes>lein new app clojure-recipes
+lein new app clojure-recipes
+Generating a project called clojure-recipes based on the 'app' template.
+c:\Users\rvaidya\Downloads\clojure-recipes>ls
+ls
+'ls' is not recognized as an internal or external command,
+operable program or batch file.
+
+c:\Users\rvaidya\Downloads\clojure-recipes>dir
+dir
+ Volume in drive C is OS
+ Volume Serial Number is 8EF7-A26E
+
+ Directory of c:\Users\rvaidya\Downloads\clojure-recipes
+
+10/27/2016  12:27 PM    <DIR>          .
+10/27/2016  12:27 PM    <DIR>          ..
+10/27/2016  12:27 PM                35 .#Readme
+10/27/2016  12:27 PM    <DIR>          clojure-recipes
+               1 File(s)             35 bytes
+               3 Dir(s)  126,633,807,872 bytes free
+
+c:\Users\rvaidya\Downloads\clojure-recipes>cd clojure-recipes/
+cd clojure-recipes/
+
+c:\Users\rvaidya\Downloads\clojure-recipes\clojure-recipes>dir
+dir
+ Volume in drive C is OS
+ Volume Serial Number is 8EF7-A26E
+
+ Directory of c:\Users\rvaidya\Downloads\clojure-recipes\clojure-recipes
+
+10/27/2016  12:27 PM    <DIR>          .
+10/27/2016  12:27 PM    <DIR>          ..
+10/27/2016  12:27 PM               110 .gitignore
+10/27/2016  12:27 PM               150 .hgignore
+10/27/2016  12:27 PM               808 CHANGELOG.md
+10/27/2016  12:27 PM    <DIR>          doc
+10/27/2016  12:27 PM            11,432 LICENSE
+10/27/2016  12:27 PM               386 project.clj
+10/27/2016  12:27 PM               517 README.md
+10/27/2016  12:27 PM    <DIR>          resources
+10/27/2016  12:27 PM    <DIR>          src
+10/27/2016  12:27 PM    <DIR>          test
+               6 File(s)         13,403 bytes
+               6 Dir(s)  126,632,476,672 bytes free
+
+c:\Users\rvaidya\Downloads\clojure-recipes\clojure-recipes>10/27/2016  12:27 PM    <DIR>          resources
+10/27/2016  12:27 PM    <DIR>          src
+10/27/2016  12:27 PM    <DIR>          test
+               6 File(s)         13,403 bytes
+               6 Dir(s)  126,632,476,672 bytes free
+
+c:\Users\rvaidya\Downloads\clojure-recipes\clojure-recipes>
+10/27/2016  12:27 PM    <DIR>          resources
+The system cannot find the file specified.
+
+c:\Users\rvaidya\Downloads\clojure-recipes\clojure-recipes>10/27/2016  12:27 PM    <DIR>          src
+The system cannot find the file specified.
+
+c:\Users\rvaidya\Downloads\clojure-recipes\clojure-recipes>10/27/2016  12:27 PM    <DIR>          test
+The system cannot find the file specified.
+
+c:\Users\rvaidya\Downloads\clojure-recipes\clojure-recipes>               6 File(s)         13,403 bytes
+'6' is not recognized as an internal or external command,
+operable program or batch file.
+
+c:\Users\rvaidya\Downloads\clojure-recipes\clojure-recipes>               6 Dir(s)  126,632,476,672 bytes free
+'6' is not recognized as an internal or external command,
+operable program or batch file.
+
+c:\Users\rvaidya\Downloads\clojure-recipes\clojure-recipes>
+c:\Users\rvaidya\Downloads\clojure-recipes\clojure-recipes>c:\Users\rvaidya\Downloads\clojure-recipes\clojure-recipes>
+c:\Users\rvaidya\Downloads\clojure-recipes\clojure-recipes>
+
+c:\Users\rvaidya\Downloads\clojure-recipes\clojure-recipes>
+
+c:\Users\rvaidya\Downloads\clojure-recipes\clojure-recipes>
+
+c:\Users\rvaidya\Downloads\clojure-recipes\clojure-recipes>cd ..
+cd ..
+
+c:\Users\rvaidya\Downloads\clojure-recipes>dir
+dir
+ Volume in drive C is OS
+ Volume Serial Number is 8EF7-A26E
+
+ Directory of c:\Users\rvaidya\Downloads\clojure-recipes
+
+10/27/2016  12:28 PM    <DIR>          .
+10/27/2016  12:28 PM    <DIR>          ..
+10/27/2016  12:28 PM                15 #Readme#
+10/27/2016  12:27 PM                35 .#Readme
+10/27/2016  12:27 PM               808 CHANGELOG.md
+10/27/2016  12:27 PM    <DIR>          doc
+10/27/2016  12:27 PM            11,432 LICENSE
+10/27/2016  12:27 PM               386 project.clj
+10/27/2016  12:27 PM               517 README.md
+10/27/2016  12:27 PM    <DIR>          resources
+10/27/2016  12:27 PM    <DIR>          src
+10/27/2016  12:27 PM    <DIR>          test
+               6 File(s)         13,193 bytes
+               6 Dir(s)  126,585,786,368 bytes free
+
+c:\Users\rvaidya\Downloads\clojure-recipes>rm #Readme# 
+rm #Readme# 
+'rm' is not recognized as an internal or external command,
+operable program or batch file.
+
+c:\Users\rvaidya\Downloads\clojure-recipes>del #Readme# 
+del #Readme# 
+
+c:\Users\rvaidya\Downloads\clojure-recipes>dir
+dir
+ Volume in drive C is OS
+ Volume Serial Number is 8EF7-A26E
+
+ Directory of c:\Users\rvaidya\Downloads\clojure-recipes
+
+10/27/2016  12:29 PM    <DIR>          .
+10/27/2016  12:29 PM    <DIR>          ..
+10/27/2016  12:27 PM                35 .#Readme
+10/27/2016  12:27 PM               808 CHANGELOG.md
+10/27/2016  12:27 PM    <DIR>          doc
+10/27/2016  12:27 PM            11,432 LICENSE
+10/27/2016  12:27 PM               386 project.clj
+10/27/2016  12:27 PM               517 README.md
+10/27/2016  12:27 PM    <DIR>          resources
+10/27/2016  12:27 PM    <DIR>          src
+10/27/2016  12:27 PM    <DIR>          test
+               5 File(s)         13,178 bytes
+               6 Dir(s)  126,577,598,464 bytes free
+
+c:\Users\rvaidya\Downloads\clojure-recipes>del .#Readme 
+del .#Readme 
+
+c:\Users\rvaidya\Downloads\clojure-recipes>dir
+dir
+ Volume in drive C is OS
+ Volume Serial Number is 8EF7-A26E
+
+ Directory of c:\Users\rvaidya\Downloads\clojure-recipes
+
+10/27/2016  12:29 PM    <DIR>          .
+10/27/2016  12:29 PM    <DIR>          ..
+10/27/2016  12:27 PM               808 CHANGELOG.md
+10/27/2016  12:27 PM    <DIR>          doc
+10/27/2016  12:27 PM            11,432 LICENSE
+10/27/2016  12:27 PM               386 project.clj
+10/27/2016  12:27 PM               517 README.md
+10/27/2016  12:27 PM    <DIR>          resources
+10/27/2016  12:27 PM    <DIR>          src
+10/27/2016  12:27 PM    <DIR>          test
+               4 File(s)         13,143 bytes
+               6 Dir(s)  126,573,993,984 bytes free
+
+c:\Users\rvaidya\Downloads\clojure-recipes>cd src
+cd src
+
+c:\Users\rvaidya\Downloads\clojure-recipes\src>dir
+dir
+ Volume in drive C is OS
+ Volume Serial Number is 8EF7-A26E
+
+ Directory of c:\Users\rvaidya\Downloads\clojure-recipes\src
+
+10/27/2016  12:27 PM    <DIR>          .
+10/27/2016  12:27 PM    <DIR>          ..
+10/27/2016  12:27 PM    <DIR>          clojure_recipes
+               0 File(s)              0 bytes
+               3 Dir(s)  126,560,604,160 bytes free
+
+c:\Users\rvaidya\Downloads\clojure-recipes\src>cd clojure_recipes/
+cd clojure_recipes/
+
+c:\Users\rvaidya\Downloads\clojure-recipes\src\clojure_recipes>dir
+dir
+ Volume in drive C is OS
+ Volume Serial Number is 8EF7-A26E
+
+ Directory of c:\Users\rvaidya\Downloads\clojure-recipes\src\clojure_recipes
+
+10/27/2016  12:27 PM    <DIR>          .
+10/27/2016  12:27 PM    <DIR>          ..
+10/27/2016  12:27 PM               137 core.clj
+               1 File(s)            137 bytes
+               2 Dir(s)  126,559,920,128 bytes free
+
+c:\Users\rvaidya\Downloads\clojure-recipes\src\clojure_recipes>ls
+ls
+'ls' is not recognized as an internal or external command,
+operable program or batch file.
+
+c:\Users\rvaidya\Downloads\clojure-recipes\src\clojure_recipes>dir
+dir
+ Volume in drive C is OS
+ Volume Serial Number is 8EF7-A26E
+
+ Directory of c:\Users\rvaidya\Downloads\clojure-recipes\src\clojure_recipes
+
+10/27/2016  12:34 PM    <DIR>          .
+10/27/2016  12:34 PM    <DIR>          ..
+10/27/2016  12:34 PM               154 core.clj
+10/27/2016  12:27 PM               137 core.clj~
+10/27/2016  12:33 PM               218 loops.clj
+               3 File(s)            509 bytes
+               2 Dir(s)  126,490,378,240 bytes free
+
+c:\Users\rvaidya\Downloads\clojure-recipes\src\clojure_recipes>cd ..
+cd ..
+
+c:\Users\rvaidya\Downloads\clojure-recipes\src>dir
+dir
+ Volume in drive C is OS
+ Volume Serial Number is 8EF7-A26E
+
+ Directory of c:\Users\rvaidya\Downloads\clojure-recipes\src
+
+10/27/2016  12:27 PM    <DIR>          .
+10/27/2016  12:27 PM    <DIR>          ..
+10/27/2016  12:34 PM    <DIR>          clojure_recipes
+               0 File(s)              0 bytes
+               3 Dir(s)  126,489,714,688 bytes free
+
+c:\Users\rvaidya\Downloads\clojure-recipes\src>cd ..
+cd ..
+
+c:\Users\rvaidya\Downloads\clojure-recipes>dir
+dir
+ Volume in drive C is OS
+ Volume Serial Number is 8EF7-A26E
+
+ Directory of c:\Users\rvaidya\Downloads\clojure-recipes
+
+10/27/2016  12:29 PM    <DIR>          .
+10/27/2016  12:29 PM    <DIR>          ..
+10/27/2016  12:27 PM               808 CHANGELOG.md
+10/27/2016  12:27 PM    <DIR>          doc
+10/27/2016  12:27 PM            11,432 LICENSE
+10/27/2016  12:27 PM               386 project.clj
+10/27/2016  12:27 PM               517 README.md
+10/27/2016  12:27 PM    <DIR>          resources
+10/27/2016  12:27 PM    <DIR>          src
+10/27/2016  12:27 PM    <DIR>          test
+               4 File(s)         13,143 bytes
+               6 Dir(s)  126,490,046,464 bytes free
+
+c:\Users\rvaidya\Downloads\clojure-recipes>lein run 
+lein run 
+Exception in thread "main" java.lang.RuntimeException: EOF while reading, starting at line 4, compiling:(clojure_recipes/core.clj:9:1)
+	at clojure.lang.Compiler.load(Compiler.java:7386)
+	at clojure.lang.RT.loadResourceScript(RT.java:372)
+	at clojure.lang.RT.loadResourceScript(RT.java:363)
+	at clojure.lang.RT.load(RT.java:453)
+	at clojure.lang.RT.load(RT.java:419)
+	at clojure.core$load$fn__5677.invoke(core.clj:5893)
+	at clojure.core$load.invokeStatic(core.clj:5892)
+	at clojure.core$load.doInvoke(core.clj:5876)
+	at clojure.lang.RestFn.invoke(RestFn.java:408)
+	at clojure.core$load_one.invokeStatic(core.clj:5697)
+	at clojure.core$load_one.invoke(core.clj:5692)
+	at clojure.core$load_lib$fn__5626.invoke(core.clj:5737)
+	at clojure.core$load_lib.invokeStatic(core.clj:5736)
+	at clojure.core$load_lib.doInvoke(core.clj:5717)
+	at clojure.lang.RestFn.applyTo(RestFn.java:142)
+	at clojure.core$apply.invokeStatic(core.clj:648)
+	at clojure.core$load_libs.invokeStatic(core.clj:5774)
+	at clojure.core$load_libs.doInvoke(core.clj:5758)
+	at clojure.lang.RestFn.applyTo(RestFn.java:137)
+	at clojure.core$apply.invokeStatic(core.clj:648)
+	at clojure.core$require.invokeStatic(core.clj:5796)
+	at clojure.core$require.doInvoke(core.clj:5796)
+	at clojure.lang.RestFn.invoke(RestFn.java:408)
+	at user$eval5$fn__7.invoke(form-init2295372955947499187.clj:1)
+	at user$eval5.invokeStatic(form-init2295372955947499187.clj:1)
+	at user$eval5.invoke(form-init2295372955947499187.clj:1)
+	at clojure.lang.Compiler.eval(Compiler.java:6927)
+	at clojure.lang.Compiler.eval(Compiler.java:6917)
+	at clojure.lang.Compiler.load(Compiler.java:7379)
+	at clojure.lang.Compiler.loadFile(Compiler.java:7317)
+	at clojure.main$load_script.invokeStatic(main.clj:275)
+	at clojure.main$init_opt.invokeStatic(main.clj:277)
+	at clojure.main$init_opt.invoke(main.clj:277)
+	at clojure.main$initialize.invokeStatic(main.clj:308)
+	at clojure.main$null_opt.invokeStatic(main.clj:342)
+	at clojure.main$null_opt.invoke(main.clj:339)
+	at clojure.main$main.invokeStatic(main.clj:421)
+	at clojure.main$main.doInvoke(main.clj:384)
+	at clojure.lang.RestFn.invoke(RestFn.java:421)
+	at clojure.lang.Var.invoke(Var.java:383)
+	at clojure.lang.AFn.applyToHelper(AFn.java:156)
+	at clojure.lang.Var.applyTo(Var.java:700)
+	at clojure.main.main(main.java:37)
+Caused by: java.lang.RuntimeException: EOF while reading, starting at line 4
+	at clojure.lang.Util.runtimeException(Util.java:221)
+	at clojure.lang.LispReader.readDelimitedList(LispReader.java:1206)
+	at clojure.lang.LispReader$ListReader.invoke(LispReader.java:1049)
+	at clojure.lang.LispReader.read(LispReader.java:263)
+	at clojure.lang.LispReader.read(LispReader.java:196)
+	at clojure.lang.Compiler.load(Compiler.java:7374)
+	... 42 more
+
+c:\Users\rvaidya\Downloads\clojure-recipes> Volume in drive C is OS
+ Volume Serial Number is 8EF7-A26E
+
+ Directory of c:\Users\rvaidya\Downloads\clojure-recipes
+
+10/27/2016  12:29 PM    <DIR>          .
+10/27/2016  12:29 PM    <DIR>          ..
+10/27/2016  12:27 PM               808 CHANGELOG.md
+10/27/2016  12:27 PM    <DIR>          doc
+10/27/2016  12:27 PM            11,432 LICENSE
+10/27/2016  12:27 PM               386 project.clj
+10/27/2016  12:27 PM               517 README.md
+10/27/2016  12:27 PM    <DIR>          resources
+10/27/2016  12:27 PM    <DIR>          src
+10/27/2016  12:27 PM    <DIR>          test
+               4 File(s)         13,143 bytes
+               6 Dir(s)  126,490,046,464 bytes free
+
+c:\Users\rvaidya\Downloads\clojure-recipes>
+ Volume in drive C is OS
+'Volume' is not recognized as an internal or external command,
+operable program or batch file.
+
+c:\Users\rvaidya\Downloads\clojure-recipes> Volume Serial Number is 8EF7-A26E
+'Volume' is not recognized as an internal or external command,
+operable program or batch file.
+
+c:\Users\rvaidya\Downloads\clojure-recipes>
+c:\Users\rvaidya\Downloads\clojure-recipes> Directory of c:\Users\rvaidya\Downloads\clojure-recipes
+'Directory' is not recognized as an internal or external command,
+operable program or batch file.
+
+c:\Users\rvaidya\Downloads\clojure-recipes>
+c:\Users\rvaidya\Downloads\clojure-recipes>10/27/2016  12:29 PM    <DIR>          .
+The system cannot find the file specified.
+
+c:\Users\rvaidya\Downloads\clojure-recipes>10/27/2016  12:29 PM    <DIR>          ..
+The system cannot find the file specified.
+
+c:\Users\rvaidya\Downloads\clojure-recipes>10/27/2016  12:27 PM               808 CHANGELOG.md
+'10' is not recognized as an internal or external command,
+operable program or batch file.
+
+c:\Users\rvaidya\Downloads\clojure-recipes>10/27/2016  12:27 PM    <DIR>          doc
+The system cannot find the file specified.
+
+c:\Users\rvaidya\Downloads\clojure-recipes>10/27/2016  12:27 PM            11,432 LICENSE
+'10' is not recognized as an internal or external command,
+operable program or batch file.
+
+c:\Users\rvaidya\Downloads\clojure-recipes>10/27/2016  12:27 PM               386 project.clj
+'10' is not recognized as an internal or external command,
+operable program or batch file.
+
+c:\Users\rvaidya\Downloads\clojure-recipes>10/27/2016  12:27 PM               517 README.md
+'10' is not recognized as an internal or external command,
+operable program or batch file.
+
+c:\Users\rvaidya\Downloads\clojure-recipes>10/27/2016  12:27 PM    <DIR>          resources
+The system cannot find the file specified.
+
+c:\Users\rvaidya\Downloads\clojure-recipes>10/27/2016  12:27 PM    <DIR>          src
+The system cannot find the file specified.
+
+c:\Users\rvaidya\Downloads\clojure-recipes>10/27/2016  12:27 PM    <DIR>          test
+The system cannot find the file specified.
+
+c:\Users\rvaidya\Downloads\clojure-recipes>               4 File(s)         13,143 bytes
+'4' is not recognized as an internal or external command,
+operable program or batch file.
+
+c:\Users\rvaidya\Downloads\clojure-recipes>               6 Dir(s)  126,490,046,464 bytes free
+'6' is not recognized as an internal or external command,
+operable program or batch file.
+
+c:\Users\rvaidya\Downloads\clojure-recipes>
+c:\Users\rvaidya\Downloads\clojure-recipes>c:\Users\rvaidya\Downloads\clojure-recipes>
+c:\Users\rvaidya\Downloads\clojure-recipes>
+
+dirc:\Users\rvaidya\Downloads\clojure-recipes>
+
+c:\Users\rvaidya\Downloads\clojure-recipes>lein run
+lein run
+Exception in thread "main" java.lang.RuntimeException: Unable to resolve symbol: printNumbres in this context, compiling:(clojure_recipes/core.clj:8:3)
+	at clojure.lang.Compiler.analyze(Compiler.java:6688)
+	at clojure.lang.Compiler.analyze(Compiler.java:6625)
+	at clojure.lang.Compiler$InvokeExpr.parse(Compiler.java:3766)
+	at clojure.lang.Compiler.analyzeSeq(Compiler.java:6870)
+	at clojure.lang.Compiler.analyze(Compiler.java:6669)
+	at clojure.lang.Compiler.analyze(Compiler.java:6625)
+	at clojure.lang.Compiler$BodyExpr$Parser.parse(Compiler.java:6001)
+	at clojure.lang.Compiler$FnMethod.parse(Compiler.java:5380)
+	at clojure.lang.Compiler$FnExpr.parse(Compiler.java:3972)
+	at clojure.lang.Compiler.analyzeSeq(Compiler.java:6866)
+	at clojure.lang.Compiler.analyze(Compiler.java:6669)
+	at clojure.lang.Compiler.analyzeSeq(Compiler.java:6856)
+	at clojure.lang.Compiler.analyze(Compiler.java:6669)
+	at clojure.lang.Compiler.access$300(Compiler.java:38)
+	at clojure.lang.Compiler$DefExpr$Parser.parse(Compiler.java:589)
+	at clojure.lang.Compiler.analyzeSeq(Compiler.java:6868)
+	at clojure.lang.Compiler.analyze(Compiler.java:6669)
+	at clojure.lang.Compiler.analyze(Compiler.java:6625)
+	at clojure.lang.Compiler.eval(Compiler.java:6931)
+	at clojure.lang.Compiler.load(Compiler.java:7379)
+	at clojure.lang.RT.loadResourceScript(RT.java:372)
+	at clojure.lang.RT.loadResourceScript(RT.java:363)
+	at clojure.lang.RT.load(RT.java:453)
+	at clojure.lang.RT.load(RT.java:419)
+	at clojure.core$load$fn__5677.invoke(core.clj:5893)
+	at clojure.core$load.invokeStatic(core.clj:5892)
+	at clojure.core$load.doInvoke(core.clj:5876)
+	at clojure.lang.RestFn.invoke(RestFn.java:408)
+	at clojure.core$load_one.invokeStatic(core.clj:5697)
+	at clojure.core$load_one.invoke(core.clj:5692)
+	at clojure.core$load_lib$fn__5626.invoke(core.clj:5737)
+	at clojure.core$load_lib.invokeStatic(core.clj:5736)
+	at clojure.core$load_lib.doInvoke(core.clj:5717)
+	at clojure.lang.RestFn.applyTo(RestFn.java:142)
+	at clojure.core$apply.invokeStatic(core.clj:648)
+	at clojure.core$load_libs.invokeStatic(core.clj:5774)
+	at clojure.core$load_libs.doInvoke(core.clj:5758)
+	at clojure.lang.RestFn.applyTo(RestFn.java:137)
+	at clojure.core$apply.invokeStatic(core.clj:648)
+	at clojure.core$require.invokeStatic(core.clj:5796)
+	at clojure.core$require.doInvoke(core.clj:5796)
+	at clojure.lang.RestFn.invoke(RestFn.java:408)
+	at user$eval5$fn__7.invoke(form-init5508064021986371955.clj:1)
+	at user$eval5.invokeStatic(form-init5508064021986371955.clj:1)
+	at user$eval5.invoke(form-init5508064021986371955.clj:1)
+	at clojure.lang.Compiler.eval(Compiler.java:6927)
+	at clojure.lang.Compiler.eval(Compiler.java:6917)
+	at clojure.lang.Compiler.load(Compiler.java:7379)
+	at clojure.lang.Compiler.loadFile(Compiler.java:7317)
+	at clojure.main$load_script.invokeStatic(main.clj:275)
+	at clojure.main$init_opt.invokeStatic(main.clj:277)
+	at clojure.main$init_opt.invoke(main.clj:277)
+	at clojure.main$initialize.invokeStatic(main.clj:308)
+	at clojure.main$null_opt.invokeStatic(main.clj:342)
+	at clojure.main$null_opt.invoke(main.clj:339)
+	at clojure.main$main.invokeStatic(main.clj:421)
+	at clojure.main$main.doInvoke(main.clj:384)
+	at clojure.lang.RestFn.invoke(RestFn.java:421)
+	at clojure.lang.Var.invoke(Var.java:383)
+	at clojure.lang.AFn.applyToHelper(AFn.java:156)
+	at clojure.lang.Var.applyTo(Var.java:700)
+	at clojure.main.main(main.java:37)
+Caused by: java.lang.RuntimeException: Unable to resolve symbol: printNumbres in this context
+	at clojure.lang.Util.runtimeException(Util.java:221)
+	at clojure.lang.Compiler.resolveIn(Compiler.java:7164)
+	at clojure.lang.Compiler.resolve(Compiler.java:7108)
+	at clojure.lang.Compiler.analyzeSymbol(Compiler.java:7069)
+	at clojure.lang.Compiler.analyze(Compiler.java:6648)
+	... 61 more
+
+c:\Users\rvaidya\Downloads\clojure-recipes>dirc:\Users\rvaidya\Downloads\clojure-recipes>
+dirc:\Users\rvaidya\Downloads\clojure-recipes>
+
+c:\Users\rvaidya\Downloads\clojure-recipes>dir
+dir
+ Volume in drive C is OS
+ Volume Serial Number is 8EF7-A26E
+
+ Directory of c:\Users\rvaidya\Downloads\clojure-recipes
+
+10/27/2016  12:34 PM    <DIR>          .
+10/27/2016  12:34 PM    <DIR>          ..
+10/27/2016  12:27 PM               808 CHANGELOG.md
+10/27/2016  12:27 PM    <DIR>          doc
+10/27/2016  12:27 PM            11,432 LICENSE
+10/27/2016  12:27 PM               386 project.clj
+10/27/2016  12:27 PM               517 README.md
+10/27/2016  12:27 PM    <DIR>          resources
+10/27/2016  12:27 PM    <DIR>          src
+10/27/2016  12:34 PM    <DIR>          target
+10/27/2016  12:27 PM    <DIR>          test
+               4 File(s)         13,143 bytes
+               7 Dir(s)  126,487,945,216 bytes free
+
+c:\Users\rvaidya\Downloads\clojure-recipes>cd src
+cd src
+
+c:\Users\rvaidya\Downloads\clojure-recipes\src>ls
+ls
+'ls' is not recognized as an internal or external command,
+operable program or batch file.
+
+c:\Users\rvaidya\Downloads\clojure-recipes\src>dir
+dir
+ Volume in drive C is OS
+ Volume Serial Number is 8EF7-A26E
+
+ Directory of c:\Users\rvaidya\Downloads\clojure-recipes\src
+
+10/27/2016  12:27 PM    <DIR>          .
+10/27/2016  12:27 PM    <DIR>          ..
+10/27/2016  12:35 PM    <DIR>          clojure_recipes
+               0 File(s)              0 bytes
+               3 Dir(s)  126,487,945,216 bytes free
+
+c:\Users\rvaidya\Downloads\clojure-recipes\src>cd clojure_recipes/
+cd clojure_recipes/
+
+c:\Users\rvaidya\Downloads\clojure-recipes\src\clojure_recipes>dir
+dir
+ Volume in drive C is OS
+ Volume Serial Number is 8EF7-A26E
+
+ Directory of c:\Users\rvaidya\Downloads\clojure-recipes\src\clojure_recipes
+
+10/27/2016  12:35 PM    <DIR>          .
+10/27/2016  12:35 PM    <DIR>          ..
+10/27/2016  12:35 PM               155 core.clj
+10/27/2016  12:27 PM               137 core.clj~
+10/27/2016  12:33 PM               218 loops.clj
+               3 File(s)            510 bytes
+               2 Dir(s)  126,487,945,216 bytes free
+
+c:\Users\rvaidya\Downloads\clojure-recipes\src\clojure_recipes>lein run
+lein run
+Exception in thread "main" java.lang.ClassNotFoundException: clojure-recipes.core, compiling:(clojure_recipes/core.clj:3:1)
+	at clojure.lang.Compiler.analyze(Compiler.java:6688)
+	at clojure.lang.Compiler.analyze(Compiler.java:6625)
+	at clojure.lang.Compiler$InvokeExpr.parse(Compiler.java:3834)
+	at clojure.lang.Compiler.analyzeSeq(Compiler.java:6870)
+	at clojure.lang.Compiler.analyze(Compiler.java:6669)
+	at clojure.lang.Compiler.analyze(Compiler.java:6625)
+	at clojure.lang.Compiler$BodyExpr$Parser.parse(Compiler.java:6001)
+	at clojure.lang.Compiler$FnMethod.parse(Compiler.java:5380)
+	at clojure.lang.Compiler$FnExpr.parse(Compiler.java:3972)
+	at clojure.lang.Compiler.analyzeSeq(Compiler.java:6866)
+	at clojure.lang.Compiler.analyze(Compiler.java:6669)
+	at clojure.lang.Compiler.eval(Compiler.java:6924)
+	at clojure.lang.Compiler.load(Compiler.java:7379)
+	at clojure.lang.RT.loadResourceScript(RT.java:372)
+	at clojure.lang.RT.loadResourceScript(RT.java:363)
+	at clojure.lang.RT.load(RT.java:453)
+	at clojure.lang.RT.load(RT.java:419)
+	at clojure.core$load$fn__5677.invoke(core.clj:5893)
+	at clojure.core$load.invokeStatic(core.clj:5892)
+	at clojure.core$load.doInvoke(core.clj:5876)
+	at clojure.lang.RestFn.invoke(RestFn.java:408)
+	at clojure.core$load_one.invokeStatic(core.clj:5697)
+	at clojure.core$load_one.invoke(core.clj:5692)
+	at clojure.core$load_lib$fn__5626.invoke(core.clj:5737)
+	at clojure.core$load_lib.invokeStatic(core.clj:5736)
+	at clojure.core$load_lib.doInvoke(core.clj:5717)
+	at clojure.lang.RestFn.applyTo(RestFn.java:142)
+	at clojure.core$apply.invokeStatic(core.clj:648)
+	at clojure.core$load_libs.invokeStatic(core.clj:5774)
+	at clojure.core$load_libs.doInvoke(core.clj:5758)
+	at clojure.lang.RestFn.applyTo(RestFn.java:137)
+	at clojure.core$apply.invokeStatic(core.clj:648)
+	at clojure.core$require.invokeStatic(core.clj:5796)
+	at clojure.core$require.doInvoke(core.clj:5796)
+	at clojure.lang.RestFn.invoke(RestFn.java:408)
+	at user$eval5$fn__7.invoke(form-init7691521271191200502.clj:1)
+	at user$eval5.invokeStatic(form-init7691521271191200502.clj:1)
+	at user$eval5.invoke(form-init7691521271191200502.clj:1)
+	at clojure.lang.Compiler.eval(Compiler.java:6927)
+	at clojure.lang.Compiler.eval(Compiler.java:6917)
+	at clojure.lang.Compiler.load(Compiler.java:7379)
+	at clojure.lang.Compiler.loadFile(Compiler.java:7317)
+	at clojure.main$load_script.invokeStatic(main.clj:275)
+	at clojure.main$init_opt.invokeStatic(main.clj:277)
+l	at clojure.main$init_opt.invoke(main.clj:277)
+	at clojure.main$initialize.invokeStatic(main.clj:308)
+	at clojure.main$null_opt.invokeStatic(main.clj:342)
+	at clojure.main$null_opt.invoke(main.clj:339)
+	at clojure.main$main.invokeStatic(main.clj:421)
+	at clojure.main$main.doInvoke(main.clj:384)
+	at clojure.lang.RestFn.invoke(RestFn.java:421)
+	at clojure.lang.Var.invoke(Var.java:383)
+	at clojure.lang.AFn.applyToHelper(AFn.java:156)
+	at clojure.lang.Var.applyTo(Var.java:700)
+	at clojure.main.main(main.java:37)
+Caused by: java.lang.ClassNotFoundException: clojure-recipes.core
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at clojure.lang.DynamicClassLoader.findClass(DynamicClassLoader.java:69)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at clojure.lang.DynamicClassLoader.loadClass(DynamicClassLoader.java:77)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:348)
+	at clojure.lang.RT.classForName(RT.java:2168)
+	at clojure.lang.RT.classForName(RT.java:2177)
+	at clojure.lang.Compiler.resolveIn(Compiler.java:7145)
+	at clojure.lang.Compiler.resolve(Compiler.java:7108)
+	at clojure.lang.Compiler.analyzeSymbol(Compiler.java:7069)
+	at clojure.lang.Compiler.analyze(Compiler.java:6648)
+	... 54 more
+
+c:\Users\rvaidya\Downloads\clojure-recipes\src\clojure_recipes>l	at clojure.main$init_opt.invoke(main.clj:277)
+	at clojure.main$initialize.invokeStatic(main.clj:308)
+	at clojure.main$null_opt.invokeStatic(main.clj:342)
+	at clojure.main$null_opt.invoke(main.clj:339)
+	at clojure.main$main.invokeStatic(main.clj:421)
+	at clojure.main$main.doInvoke(main.clj:384)
+	at clojure.lang.RestFn.invoke(RestFn.java:421)
+	at clojure.lang.Var.invoke(Var.java:383)
+	at clojure.lang.AFn.applyToHelper(AFn.java:156)
+	at clojure.lang.Var.applyTo(Var.java:700)
+	at clojure.main.main(main.java:37)
+Caused by: java.lang.ClassNotFoundException: clojure-recipes.core
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at clojure.lang.DynamicClassLoader.findClass(DynamicClassLoader.java:69)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at clojure.lang.DynamicClassLoader.loadClass(DynamicClassLoader.java:77)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:348)
+	at clojure.lang.RT.classForName(RT.java:2168)
+	at clojure.lang.RT.classForName(RT.java:2177)
+	at clojure.lang.Compiler.resolveIn(Compiler.java:7145)
+	at clojure.lang.Compiler.resolve(Compiler.java:7108)
+	at clojure.lang.Compiler.analyzeSymbol(Compiler.java:7069)
+	at clojure.lang.Compiler.analyze(Compiler.java:6648)
+	... 54 more
+
+c:\Users\rvaidya\Downloads\clojure-recipes\src\clojure_recipes>
+l	at clojure.main$init_opt.invoke(main.clj:277)
+'l' is not recognized as an internal or external command,
+operable program or batch file.
+
+c:\Users\rvaidya\Downloads\clojure-recipes\src\clojure_recipes>	at clojure.main$initialize.invokeStatic(main.clj:308)
+
+Invalid command.
+
+The AT command schedules commands and programs to run on a computer at      
+a specified time and date. The Schedule service must be running to use      
+the AT command.
+                                                           
+AT [\\computername] [ [id] [/DELETE] | /DELETE [/YES]]                    
+AT [\\computername] time [/INTERACTIVE]
+    [ /EVERY:date[,...] | /NEXT:date[,...]] "command"
+
+\\computername     Specifies a remote computer. Commands are scheduled on the
+                   local computer if this parameter is omitted.             
+id                 Is an identification number assigned to a scheduled      
+                   command.                                                 
+/delete            Cancels a scheduled command. If id is omitted, all the
+                   scheduled commands on the computer are canceled.
+/yes               Used with cancel all jobs command when no further
+                   confirmation is desired.
+time               Specifies the time when command is to run.
+/interactive       Allows the job to interact with the desktop of the user   
+                   who is logged on at the time the job runs.
+/every:date[,...]  Runs the command on each specified day(s) of the week or
+                   month. If date is omitted, the current day of the month
+                   is assumed.                                              
+/next:date[,...]   Runs the specified command on the next occurrence of the
+                   day (for example, next Thursday).  If date is omitted, the
+                   current day of the month is assumed.
+"command"          Is the Windows NT command, or batch program to be run.
+
+
+c:\Users\rvaidya\Downloads\clojure-recipes\src\clojure_recipes>	at clojure.main$null_opt.invokeStatic(main.clj:342)
+Invalid command.
+
+The AT command schedules commands and programs to run on a computer at      
+a specified time and date. The Schedule service must be running to use      
+the AT command.
+                                                           
+AT [\\computername] [ [id] [/DELETE] | /DELETE [/YES]]                    
+AT [\\computername] time [/INTERACTIVE]
+    [ /EVERY:date[,...] | /NEXT:date[,...]] "command"
+
+\\computername     Specifies a remote computer. Commands are scheduled on the
+                   local computer if this parameter is omitted.             
+id                 Is an identification number assigned to a scheduled      
+                   command.                                                 
+/delete            Cancels a scheduled command. If id is omitted, all the
+                   scheduled commands on the computer are canceled.
+/yes               Used with cancel all jobs command when no further
+                   confirmation is desired.
+time               Specifies the time when command is to run.
+/interactive       Allows the job to interact with the desktop of the user   
+                   who is logged on at the time the job runs.
+/every:date[,...]  Runs the command on each specified day(s) of the week or
+                   month. If date is omitted, the current day of the month
+                   is assumed.                                              
+/next:date[,...]   Runs the specified command on the next occurrence of the
+                   day (for example, next Thursday).  If date is omitted, the
+                   current day of the month is assumed.
+"command"          Is the Windows NT command, or batch program to be run.
+
+
+c:\Users\rvaidya\Downloads\clojure-recipes\src\clojure_recipes>	at clojure.main$null_opt.invoke(main.clj:339)
+Invalid command.
+
+The AT command schedules commands and programs to run on a computer at      
+a specified time and date. The Schedule service must be running to use      
+the AT command.
+                                                           
+AT [\\computername] [ [id] [/DELETE] | /DELETE [/YES]]                    
+AT [\\computername] time [/INTERACTIVE]
+    [ /EVERY:date[,...] | /NEXT:date[,...]] "command"
+
+\\computername     Specifies a remote computer. Commands are scheduled on the
+                   local computer if this parameter is omitted.             
+id                 Is an identification number assigned to a scheduled      
+                   command.                                                 
+/delete            Cancels a scheduled command. If id is omitted, all the
+                   scheduled commands on the computer are canceled.
+/yes               Used with cancel all jobs command when no further
+                   confirmation is desired.
+time               Specifies the time when command is to run.
+/interactive       Allows the job to interact with the desktop of the user   
+                   who is logged on at the time the job runs.
+/every:date[,...]  Runs the command on each specified day(s) of the week or
+                   month. If date is omitted, the current day of the month
+                   is assumed.                                              
+/next:date[,...]   Runs the specified command on the next occurrence of the
+                   day (for example, next Thursday).  If date is omitted, the
+                   current day of the month is assumed.
+"command"          Is the Windows NT command, or batch program to be run.
+
+
+c:\Users\rvaidya\Downloads\clojure-recipes\src\clojure_recipes>	at clojure.main$main.invokeStatic(main.clj:421)
+Invalid command.
+
+The AT command schedules commands and programs to run on a computer at      
+a specified time and date. The Schedule service must be running to use      
+the AT command.
+                                                           
+AT [\\computername] [ [id] [/DELETE] | /DELETE [/YES]]                    
+AT [\\computername] time [/INTERACTIVE]
+    [ /EVERY:date[,...] | /NEXT:date[,...]] "command"
+
+\\computername     Specifies a remote computer. Commands are scheduled on the
+                   local computer if this parameter is omitted.             
+id                 Is an identification number assigned to a scheduled      
+                   command.                                                 
+/delete            Cancels a scheduled command. If id is omitted, all the
+                   scheduled commands on the computer are canceled.
+/yes               Used with cancel all jobs command when no further
+                   confirmation is desired.
+time               Specifies the time when command is to run.
+/interactive       Allows the job to interact with the desktop of the user   
+                   who is logged on at the time the job runs.
+/every:date[,...]  Runs the command on each specified day(s) of the week or
+                   month. If date is omitted, the current day of the month
+                   is assumed.                                              
+/next:date[,...]   Runs the specified command on the next occurrence of the
+                   day (for example, next Thursday).  If date is omitted, the
+                   current day of the month is assumed.
+"command"          Is the Windows NT command, or batch program to be run.
+
+
+c:\Users\rvaidya\Downloads\clojure-recipes\src\clojure_recipes>	at clojure.main$main.doInvoke(main.clj:384)
+Invalid command.
+
+The AT command schedules commands and programs to run on a computer at      
+a specified time and date. The Schedule service must be running to use      
+the AT command.
+                                                           
+AT [\\computername] [ [id] [/DELETE] | /DELETE [/YES]]                    
+AT [\\computername] time [/INTERACTIVE]
+    [ /EVERY:date[,...] | /NEXT:date[,...]] "command"
+
+\\computername     Specifies a remote computer. Commands are scheduled on the
+                   local computer if this parameter is omitted.             
+id                 Is an identification number assigned to a scheduled      
+                   command.                                                 
+/delete            Cancels a scheduled command. If id is omitted, all the
+                   scheduled commands on the computer are canceled.
+/yes               Used with cancel all jobs command when no further
+                   confirmation is desired.
+time               Specifies the time when command is to run.
+/interactive       Allows the job to interact with the desktop of the user   
+                   who is logged on at the time the job runs.
+/every:date[,...]  Runs the command on each specified day(s) of the week or
+                   month. If date is omitted, the current day of the month
+                   is assumed.                                              
+/next:date[,...]   Runs the specified command on the next occurrence of the
+                   day (for example, next Thursday).  If date is omitted, the
+                   current day of the month is assumed.
+"command"          Is the Windows NT command, or batch program to be run.
+
+
+c:\Users\rvaidya\Downloads\clojure-recipes\src\clojure_recipes>	at clojure.lang.RestFn.invoke(RestFn.java:421)
+Invalid command.
+
+The AT command schedules commands and programs to run on a computer at      
+a specified time and date. The Schedule service must be running to use      
+the AT command.
+                                                           
+AT [\\computername] [ [id] [/DELETE] | /DELETE [/YES]]                    
+AT [\\computername] time [/INTERACTIVE]
+    [ /EVERY:date[,...] | /NEXT:date[,...]] "command"
+
+\\computername     Specifies a remote computer. Commands are scheduled on the
+                   local computer if this parameter is omitted.             
+id                 Is an identification number assigned to a scheduled      
+                   command.                                                 
+/delete            Cancels a scheduled command. If id is omitted, all the
+                   scheduled commands on the computer are canceled.
+/yes               Used with cancel all jobs command when no further
+                   confirmation is desired.
+time               Specifies the time when command is to run.
+/interactive       Allows the job to interact with the desktop of the user   
+                   who is logged on at the time the job runs.
+/every:date[,...]  Runs the command on each specified day(s) of the week or
+                   month. If date is omitted, the current day of the month
+                   is assumed.                                              
+/next:date[,...]   Runs the specified command on the next occurrence of the
+                   day (for example, next Thursday).  If date is omitted, the
+                   current day of the month is assumed.
+"command"          Is the Windows NT command, or batch program to be run.
+
+
+c:\Users\rvaidya\Downloads\clojure-recipes\src\clojure_recipes>	at clojure.lang.Var.invoke(Var.java:383)
+Invalid command.
+
+The AT command schedules commands and programs to run on a computer at      
+a specified time and date. The Schedule service must be running to use      
+the AT command.
+                                                           
+AT [\\computername] [ [id] [/DELETE] | /DELETE [/YES]]                    
+AT [\\computername] time [/INTERACTIVE]
+    [ /EVERY:date[,...] | /NEXT:date[,...]] "command"
+
+\\computername     Specifies a remote computer. Commands are scheduled on the
+                   local computer if this parameter is omitted.             
+id                 Is an identification number assigned to a scheduled      
+                   command.                                                 
+/delete            Cancels a scheduled command. If id is omitted, all the
+                   scheduled commands on the computer are canceled.
+/yes               Used with cancel all jobs command when no further
+                   confirmation is desired.
+time               Specifies the time when command is to run.
+/interactive       Allows the job to interact with the desktop of the user   
+                   who is logged on at the time the job runs.
+/every:date[,...]  Runs the command on each specified day(s) of the week or
+                   month. If date is omitted, the current day of the month
+                   is assumed.                                              
+/next:date[,...]   Runs the specified command on the next occurrence of the
+                   day (for example, next Thursday).  If date is omitted, the
+                   current day of the month is assumed.
+"command"          Is the Windows NT command, or batch program to be run.
+
+
+c:\Users\rvaidya\Downloads\clojure-recipes\src\clojure_recipes>	at clojure.lang.AFn.applyToHelper(AFn.java:156)
+Invalid command.
+
+The AT command schedules commands and programs to run on a computer at      
+a specified time and date. The Schedule service must be running to use      
+the AT command.
+                                                           
+AT [\\computername] [ [id] [/DELETE] | /DELETE [/YES]]                    
+AT [\\computername] time [/INTERACTIVE]
+    [ /EVERY:date[,...] | /NEXT:date[,...]] "command"
+
+\\computername     Specifies a remote computer. Commands are scheduled on the
+                   local computer if this parameter is omitted.             
+id                 Is an identification number assigned to a scheduled      
+                   command.                                                 
+/delete            Cancels a scheduled command. If id is omitted, all the
+                   scheduled commands on the computer are canceled.
+/yes               Used with cancel all jobs command when no further
+                   confirmation is desired.
+time               Specifies the time when command is to run.
+/interactive       Allows the job to interact with the desktop of the user   
+                   who is logged on at the time the job runs.
+/every:date[,...]  Runs the command on each specified day(s) of the week or
+                   month. If date is omitted, the current day of the month
+                   is assumed.                                              
+/next:date[,...]   Runs the specified command on the next occurrence of the
+                   day (for example, next Thursday).  If date is omitted, the
+                   current day of the month is assumed.
+"command"          Is the Windows NT command, or batch program to be run.
+
+
+c:\Users\rvaidya\Downloads\clojure-recipes\src\clojure_recipes>	at clojure.lang.Var.applyTo(Var.java:700)
+Invalid command.
+
+The AT command schedules commands and programs to run on a computer at      
+a specified time and date. The Schedule service must be running to use      
+the AT command.
+                                                           
+AT [\\computername] [ [id] [/DELETE] | /DELETE [/YES]]                    
+AT [\\computername] time [/INTERACTIVE]
+    [ /EVERY:date[,...] | /NEXT:date[,...]] "command"
+
+\\computername     Specifies a remote computer. Commands are scheduled on the
+                   local computer if this parameter is omitted.             
+id                 Is an identification number assigned to a scheduled      
+                   command.                                                 
+/delete            Cancels a scheduled command. If id is omitted, all the
+                   scheduled commands on the computer are canceled.
+/yes               Used with cancel all jobs command when no further
+                   confirmation is desired.
+time               Specifies the time when command is to run.
+/interactive       Allows the job to interact with the desktop of the user   
+                   who is logged on at the time the job runs.
+/every:date[,...]  Runs the command on each specified day(s) of the week or
+                   month. If date is omitted, the current day of the month
+                   is assumed.                                              
+/next:date[,...]   Runs the specified command on the next occurrence of the
+                   day (for example, next Thursday).  If date is omitted, the
+                   current day of the month is assumed.
+"command"          Is the Windows NT command, or batch program to be run.
+
+
+c:\Users\rvaidya\Downloads\clojure-recipes\src\clojure_recipes>	at clojure.main.main(main.java:37)
+Invalid command.
+
+The AT command schedules commands and programs to run on a computer at      
+a specified time and date. The Schedule service must be running to use      
+the AT command.
+                                                           
+AT [\\computername] [ [id] [/DELETE] | /DELETE [/YES]]                    
+AT [\\computername] time [/INTERACTIVE]
+    [ /EVERY:date[,...] | /NEXT:date[,...]] "command"
+
+\\computername     Specifies a remote computer. Commands are scheduled on the
+                   local computer if this parameter is omitted.             
+id                 Is an identification number assigned to a scheduled      
+                   command.                                                 
+/delete            Cancels a scheduled command. If id is omitted, all the
+                   scheduled commands on the computer are canceled.
+/yes               Used with cancel all jobs command when no further
+                   confirmation is desired.
+time               Specifies the time when command is to run.
+/interactive       Allows the job to interact with the desktop of the user   
+                   who is logged on at the time the job runs.
+/every:date[,...]  Runs the command on each specified day(s) of the week or
+                   month. If date is omitted, the current day of the month
+                   is assumed.                                              
+/next:date[,...]   Runs the specified command on the next occurrence of the
+                   day (for example, next Thursday).  If date is omitted, the
+                   current day of the month is assumed.
+"command"          Is the Windows NT command, or batch program to be run.
+
+
+c:\Users\rvaidya\Downloads\clojure-recipes\src\clojure_recipes>Caused by: java.lang.ClassNotFoundException: clojure-recipes.core
+'Caused' is not recognized as an internal or external command,
+operable program or batch file.
+
+c:\Users\rvaidya\Downloads\clojure-recipes\src\clojure_recipes>	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+Invalid command.
+
+The AT command schedules commands and programs to run on a computer at      
+a specified time and date. The Schedule service must be running to use      
+the AT command.
+                                                           
+AT [\\computername] [ [id] [/DELETE] | /DELETE [/YES]]                    
+AT [\\computername] time [/INTERACTIVE]
+    [ /EVERY:date[,...] | /NEXT:date[,...]] "command"
+
+\\computername     Specifies a remote computer. Commands are scheduled on the
+                   local computer if this parameter is omitted.             
+id                 Is an identification number assigned to a scheduled      
+                   command.                                                 
+/delete            Cancels a scheduled command. If id is omitted, all the
+                   scheduled commands on the computer are canceled.
+/yes               Used with cancel all jobs command when no further
+                   confirmation is desired.
+time               Specifies the time when command is to run.
+/interactive       Allows the job to interact with the desktop of the user   
+                   who is logged on at the time the job runs.
+/every:date[,...]  Runs the command on each specified day(s) of the week or
+                   month. If date is omitted, the current day of the month
+                   is assumed.                                              
+/next:date[,...]   Runs the specified command on the next occurrence of the
+                   day (for example, next Thursday).  If date is omitted, the
+                   current day of the month is assumed.
+"command"          Is the Windows NT command, or batch program to be run.
+
+
+c:\Users\rvaidya\Downloads\clojure-recipes\src\clojure_recipes>	at clojure.lang.DynamicClassLoader.findClass(DynamicClassLoader.java:69)
+Invalid command.
+
+The AT command schedules commands and programs to run on a computer at      
+a specified time and date. The Schedule service must be running to use      
+the AT command.
+                                                           
+AT [\\computername] [ [id] [/DELETE] | /DELETE [/YES]]                    
+AT [\\computername] time [/INTERACTIVE]
+    [ /EVERY:date[,...] | /NEXT:date[,...]] "command"
+
+\\computername     Specifies a remote computer. Commands are scheduled on the
+                   local computer if this parameter is omitted.             
+id                 Is an identification number assigned to a scheduled      
+                   command.                                                 
+/delete            Cancels a scheduled command. If id is omitted, all the
+                   scheduled commands on the computer are canceled.
+/yes               Used with cancel all jobs command when no further
+                   confirmation is desired.
+time               Specifies the time when command is to run.
+/interactive       Allows the job to interact with the desktop of the user   
+                   who is logged on at the time the job runs.
+/every:date[,...]  Runs the command on each specified day(s) of the week or
+                   month. If date is omitted, the current day of the month
+                   is assumed.                                              
+/next:date[,...]   Runs the specified command on the next occurrence of the
+                   day (for example, next Thursday).  If date is omitted, the
+                   current day of the month is assumed.
+"command"          Is the Windows NT command, or batch program to be run.
+
+
+c:\Users\rvaidya\Downloads\clojure-recipes\src\clojure_recipes>	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+Invalid command.
+
+The AT command schedules commands and programs to run on a computer at      
+a specified time and date. The Schedule service must be running to use      
+the AT command.
+                                                           
+AT [\\computername] [ [id] [/DELETE] | /DELETE [/YES]]                    
+AT [\\computername] time [/INTERACTIVE]
+    [ /EVERY:date[,...] | /NEXT:date[,...]] "command"
+
+\\computername     Specifies a remote computer. Commands are scheduled on the
+                   local computer if this parameter is omitted.             
+id                 Is an identification number assigned to a scheduled      
+                   command.                                                 
+/delete            Cancels a scheduled command. If id is omitted, all the
+                   scheduled commands on the computer are canceled.
+/yes               Used with cancel all jobs command when no further
+                   confirmation is desired.
+time               Specifies the time when command is to run.
+/interactive       Allows the job to interact with the desktop of the user   
+                   who is logged on at the time the job runs.
+/every:date[,...]  Runs the command on each specified day(s) of the week or
+                   month. If date is omitted, the current day of the month
+                   is assumed.                                              
+/next:date[,...]   Runs the specified command on the next occurrence of the
+                   day (for example, next Thursday).  If date is omitted, the
+                   current day of the month is assumed.
+"command"          Is the Windows NT command, or batch program to be run.
+
+
+c:\Users\rvaidya\Downloads\clojure-recipes\src\clojure_recipes>	at clojure.lang.DynamicClassLoader.loadClass(DynamicClassLoader.java:77)
+Invalid command.
+
+The AT command schedules commands and programs to run on a computer at      
+a specified time and date. The Schedule service must be running to use      
+the AT command.
+                                                           
+AT [\\computername] [ [id] [/DELETE] | /DELETE [/YES]]                    
+AT [\\computername] time [/INTERACTIVE]
+    [ /EVERY:date[,...] | /NEXT:date[,...]] "command"
+
+\\computername     Specifies a remote computer. Commands are scheduled on the
+                   local computer if this parameter is omitted.             
+id                 Is an identification number assigned to a scheduled      
+                   command.                                                 
+/delete            Cancels a scheduled command. If id is omitted, all the
+                   scheduled commands on the computer are canceled.
+/yes               Used with cancel all jobs command when no further
+                   confirmation is desired.
+time               Specifies the time when command is to run.
+/interactive       Allows the job to interact with the desktop of the user   
+                   who is logged on at the time the job runs.
+/every:date[,...]  Runs the command on each specified day(s) of the week or
+                   month. If date is omitted, the current day of the month
+                   is assumed.                                              
+/next:date[,...]   Runs the specified command on the next occurrence of the
+                   day (for example, next Thursday).  If date is omitted, the
+                   current day of the month is assumed.
+"command"          Is the Windows NT command, or batch program to be run.
+
+
+c:\Users\rvaidya\Downloads\clojure-recipes\src\clojure_recipes>	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+Invalid command.
+
+The AT command schedules commands and programs to run on a computer at      
+a specified time and date. The Schedule service must be running to use      
+the AT command.
+                                                           
+AT [\\computername] [ [id] [/DELETE] | /DELETE [/YES]]                    
+AT [\\computername] time [/INTERACTIVE]
+    [ /EVERY:date[,...] | /NEXT:date[,...]] "command"
+
+\\computername     Specifies a remote computer. Commands are scheduled on the
+                   local computer if this parameter is omitted.             
+id                 Is an identification number assigned to a scheduled      
+                   command.                                                 
+/delete            Cancels a scheduled command. If id is omitted, all the
+                   scheduled commands on the computer are canceled.
+/yes               Used with cancel all jobs command when no further
+                   confirmation is desired.
+time               Specifies the time when command is to run.
+/interactive       Allows the job to interact with the desktop of the user   
+                   who is logged on at the time the job runs.
+/every:date[,...]  Runs the command on each specified day(s) of the week or
+                   month. If date is omitted, the current day of the month
+                   is assumed.                                              
+/next:date[,...]   Runs the specified command on the next occurrence of the
+                   day (for example, next Thursday).  If date is omitted, the
+                   current day of the month is assumed.
+"command"          Is the Windows NT command, or batch program to be run.
+
+
+c:\Users\rvaidya\Downloads\clojure-recipes\src\clojure_recipes>	at java.lang.Class.forName0(Native Method)
+Invalid command.
+
+The AT command schedules commands and programs to run on a computer at      
+a specified time and date. The Schedule service must be running to use      
+the AT command.
+                                                           
+AT [\\computername] [ [id] [/DELETE] | /DELETE [/YES]]                    
+AT [\\computername] time [/INTERACTIVE]
+    [ /EVERY:date[,...] | /NEXT:date[,...]] "command"
+
+\\computername     Specifies a remote computer. Commands are scheduled on the
+                   local computer if this parameter is omitted.             
+id                 Is an identification number assigned to a scheduled      
+                   command.                                                 
+/delete            Cancels a scheduled command. If id is omitted, all the
+                   scheduled commands on the computer are canceled.
+/yes               Used with cancel all jobs command when no further
+                   confirmation is desired.
+time               Specifies the time when command is to run.
+/interactive       Allows the job to interact with the desktop of the user   
+                   who is logged on at the time the job runs.
+/every:date[,...]  Runs the command on each specified day(s) of the week or
+                   month. If date is omitted, the current day of the month
+                   is assumed.                                              
+/next:date[,...]   Runs the specified command on the next occurrence of the
+                   day (for example, next Thursday).  If date is omitted, the
+                   current day of the month is assumed.
+"command"          Is the Windows NT command, or batch program to be run.
+
+
+c:\Users\rvaidya\Downloads\clojure-recipes\src\clojure_recipes>	at java.lang.Class.forName(Class.java:348)
+Invalid command.
+
+The AT command schedules commands and programs to run on a computer at      
+a specified time and date. The Schedule service must be running to use      
+the AT command.
+                                                           
+AT [\\computername] [ [id] [/DELETE] | /DELETE [/YES]]                    
+AT [\\computername] time [/INTERACTIVE]
+    [ /EVERY:date[,...] | /NEXT:date[,...]] "command"
+
+\\computername     Specifies a remote computer. Commands are scheduled on the
+                   local computer if this parameter is omitted.             
+id                 Is an identification number assigned to a scheduled      
+                   command.                                                 
+/delete            Cancels a scheduled command. If id is omitted, all the
+                   scheduled commands on the computer are canceled.
+/yes               Used with cancel all jobs command when no further
+                   confirmation is desired.
+time               Specifies the time when command is to run.
+/interactive       Allows the job to interact with the desktop of the user   
+                   who is logged on at the time the job runs.
+/every:date[,...]  Runs the command on each specified day(s) of the week or
+                   month. If date is omitted, the current day of the month
+                   is assumed.                                              
+/next:date[,...]   Runs the specified command on the next occurrence of the
+                   day (for example, next Thursday).  If date is omitted, the
+                   current day of the month is assumed.
+"command"          Is the Windows NT command, or batch program to be run.
+
+
+c:\Users\rvaidya\Downloads\clojure-recipes\src\clojure_recipes>	at clojure.lang.RT.classForName(RT.java:2168)
+Invalid command.
+
+The AT command schedules commands and programs to run on a computer at      
+a specified time and date. The Schedule service must be running to use      
+the AT command.
+                                                           
+AT [\\computername] [ [id] [/DELETE] | /DELETE [/YES]]                    
+AT [\\computername] time [/INTERACTIVE]
+    [ /EVERY:date[,...] | /NEXT:date[,...]] "command"
+
+\\computername     Specifies a remote computer. Commands are scheduled on the
+                   local computer if this parameter is omitted.             
+id                 Is an identification number assigned to a scheduled      
+                   command.                                                 
+/delete            Cancels a scheduled command. If id is omitted, all the
+                   scheduled commands on the computer are canceled.
+/yes               Used with cancel all jobs command when no further
+                   confirmation is desired.
+time               Specifies the time when command is to run.
+/interactive       Allows the job to interact with the desktop of the user   
+                   who is logged on at the time the job runs.
+/every:date[,...]  Runs the command on each specified day(s) of the week or
+                   month. If date is omitted, the current day of the month
+                   is assumed.                                              
+/next:date[,...]   Runs the specified command on the next occurrence of the
+                   day (for example, next Thursday).  If date is omitted, the
+                   current day of the month is assumed.
+"command"          Is the Windows NT command, or batch program to be run.
+
+
+c:\Users\rvaidya\Downloads\clojure-recipes\src\clojure_recipes>	at clojure.lang.RT.classForName(RT.java:2177)
+Invalid command.
+
+The AT command schedules commands and programs to run on a computer at      
+a specified time and date. The Schedule service must be running to use      
+the AT command.
+                                                           
+AT [\\computername] [ [id] [/DELETE] | /DELETE [/YES]]                    
+AT [\\computername] time [/INTERACTIVE]
+    [ /EVERY:date[,...] | /NEXT:date[,...]] "command"
+
+\\computername     Specifies a remote computer. Commands are scheduled on the
+                   local computer if this parameter is omitted.             
+id                 Is an identification number assigned to a scheduled      
+                   command.                                                 
+/delete            Cancels a scheduled command. If id is omitted, all the
+                   scheduled commands on the computer are canceled.
+/yes               Used with cancel all jobs command when no further
+                   confirmation is desired.
+time               Specifies the time when command is to run.
+/interactive       Allows the job to interact with the desktop of the user   
+                   who is logged on at the time the job runs.
+/every:date[,...]  Runs the command on each specified day(s) of the week or
+                   month. If date is omitted, the current day of the month
+                   is assumed.                                              
+/next:date[,...]   Runs the specified command on the next occurrence of the
+                   day (for example, next Thursday).  If date is omitted, the
+                   current day of the month is assumed.
+"command"          Is the Windows NT command, or batch program to be run.
+
+
+c:\Users\rvaidya\Downloads\clojure-recipes\src\clojure_recipes>	at clojure.lang.Compiler.resolveIn(Compiler.java:7145)
+Invalid command.
+
+The AT command schedules commands and programs to run on a computer at      
+a specified time and date. The Schedule service must be running to use      
+the AT command.
+                                                           
+AT [\\computername] [ [id] [/DELETE] | /DELETE [/YES]]                    
+AT [\\computername] time [/INTERACTIVE]
+    [ /EVERY:date[,...] | /NEXT:date[,...]] "command"
+
+\\computername     Specifies a remote computer. Commands are scheduled on the
+                   local computer if this parameter is omitted.             
+id                 Is an identification number assigned to a scheduled      
+                   command.                                                 
+/delete            Cancels a scheduled command. If id is omitted, all the
+                   scheduled commands on the computer are canceled.
+/yes               Used with cancel all jobs command when no further
+                   confirmation is desired.
+time               Specifies the time when command is to run.
+/interactive       Allows the job to interact with the desktop of the user   
+                   who is logged on at the time the job runs.
+/every:date[,...]  Runs the command on each specified day(s) of the week or
+                   month. If date is omitted, the current day of the month
+                   is assumed.                                              
+/next:date[,...]   Runs the specified command on the next occurrence of the
+                   day (for example, next Thursday).  If date is omitted, the
+                   current day of the month is assumed.
+"command"          Is the Windows NT command, or batch program to be run.
+
+
+c:\Users\rvaidya\Downloads\clojure-recipes\src\clojure_recipes>	at clojure.lang.Compiler.resolve(Compiler.java:7108)
+Invalid command.
+
+The AT command schedules commands and programs to run on a computer at      
+a specified time and date. The Schedule service must be running to use      
+the AT command.
+                                                           
+AT [\\computername] [ [id] [/DELETE] | /DELETE [/YES]]                    
+AT [\\computername] time [/INTERACTIVE]
+    [ /EVERY:date[,...] | /NEXT:date[,...]] "command"
+
+\\computername     Specifies a remote computer. Commands are scheduled on the
+                   local computer if this parameter is omitted.             
+id                 Is an identification number assigned to a scheduled      
+                   command.                                                 
+/delete            Cancels a scheduled command. If id is omitted, all the
+                   scheduled commands on the computer are canceled.
+/yes               Used with cancel all jobs command when no further
+                   confirmation is desired.
+time               Specifies the time when command is to run.
+/interactive       Allows the job to interact with the desktop of the user   
+                   who is logged on at the time the job runs.
+/every:date[,...]  Runs the command on each specified day(s) of the week or
+                   month. If date is omitted, the current day of the month
+                   is assumed.                                              
+/next:date[,...]   Runs the specified command on the next occurrence of the
+                   day (for example, next Thursday).  If date is omitted, the
+                   current day of the month is assumed.
+"command"          Is the Windows NT command, or batch program to be run.
+
+
+c:\Users\rvaidya\Downloads\clojure-recipes\src\clojure_recipes>	at clojure.lang.Compiler.analyzeSymbol(Compiler.java:7069)
+Invalid command.
+
+The AT command schedules commands and programs to run on a computer at      
+a specified time and date. The Schedule service must be running to use      
+the AT command.
+                                                           
+AT [\\computername] [ [id] [/DELETE] | /DELETE [/YES]]                    
+AT [\\computername] time [/INTERACTIVE]
+    [ /EVERY:date[,...] | /NEXT:date[,...]] "command"
+
+\\computername     Specifies a remote computer. Commands are scheduled on the
+                   local computer if this parameter is omitted.             
+id                 Is an identification number assigned to a scheduled      
+                   command.                                                 
+/delete            Cancels a scheduled command. If id is omitted, all the
+                   scheduled commands on the computer are canceled.
+/yes               Used with cancel all jobs command when no further
+                   confirmation is desired.
+time               Specifies the time when command is to run.
+/interactive       Allows the job to interact with the desktop of the user   
+                   who is logged on at the time the job runs.
+/every:date[,...]  Runs the command on each specified day(s) of the week or
+                   month. If date is omitted, the current day of the month
+                   is assumed.                                              
+/next:date[,...]   Runs the specified command on the next occurrence of the
+                   day (for example, next Thursday).  If date is omitted, the
+                   current day of the month is assumed.
+"command"          Is the Windows NT command, or batch program to be run.
+
+
+c:\Users\rvaidya\Downloads\clojure-recipes\src\clojure_recipes>	at clojure.lang.Compiler.analyze(Compiler.java:6648)
+Invalid command.
+
+The AT command schedules commands and programs to run on a computer at      
+a specified time and date. The Schedule service must be running to use      
+the AT command.
+                                                           
+AT [\\computername] [ [id] [/DELETE] | /DELETE [/YES]]                    
+AT [\\computername] time [/INTERACTIVE]
+    [ /EVERY:date[,...] | /NEXT:date[,...]] "command"
+
+\\computername     Specifies a remote computer. Commands are scheduled on the
+                   local computer if this parameter is omitted.             
+id                 Is an identification number assigned to a scheduled      
+                   command.                                                 
+/delete            Cancels a scheduled command. If id is omitted, all the
+                   scheduled commands on the computer are canceled.
+/yes               Used with cancel all jobs command when no further
+                   confirmation is desired.
+time               Specifies the time when command is to run.
+/interactive       Allows the job to interact with the desktop of the user   
+                   who is logged on at the time the job runs.
+/every:date[,...]  Runs the command on each specified day(s) of the week or
+                   month. If date is omitted, the current day of the month
+                   is assumed.                                              
+/next:date[,...]   Runs the specified command on the next occurrence of the
+                   day (for example, next Thursday).  If date is omitted, the
+                   current day of the month is assumed.
+"command"          Is the Windows NT command, or batch program to be run.
+
+
+c:\Users\rvaidya\Downloads\clojure-recipes\src\clojure_recipes>	... 54 more
+'...' is not recognized as an internal or external command,
+operable program or batch file.
+
+c:\Users\rvaidya\Downloads\clojure-recipes\src\clojure_recipes>
+c:\Users\rvaidya\Downloads\clojure-recipes\src\clojure_recipes>c:\Users\rvaidya\Downloads\clojure-recipes\src\clojure_recipes>
+c:\Users\rvaidya\Downloads\clojure-recipes\src\clojure_recipes>
+c:\Users\rvaidya\Downloads\clojure-recipes\src\clojure_recipes>lein
+lein
+
+
+Leiningen is a tool for working with Clojure projects.
+
+Several tasks are available:
+change              Rewrite project.clj by applying a function.
+check               Check syntax and warn on reflection.
+classpath           Print the classpath of the current project.
+clean               Remove all files from project's target-path.
+compile             Compile Clojure source into .class files.
+deploy              Build and deploy jar to remote repository.
+deps                Download all dependencies.
+do                  Higher-order task to perform other tasks in succession.
+help                Display a list of tasks or help for a given task.
+install             Install the current project to the local repository.
+jar                 Package up all the project's files into a jar file.
+javac               Compile Java source files.
+new                 Generate project scaffolding based on a template.
+plugin              DEPRECATED. Please use the :user profile instead.
+pom                 Write a pom.xml file to disk for Maven interoperability.
+release             Perform :release-tasks.
+repl                Start a repl session either with the current project or standalone.
+retest              Run only the test namespaces which failed last time around.
+run                 Run a -main function with optional command-line arguments.
+search              Search remote maven repositories for matching jars.
+show-profiles       List all available profiles or display one if given an argument.
+test                Run the project's tests.
+trampoline          Run a task without nesting the project's JVM inside Leiningen's.
+uberjar             Package up the project files and dependencies into a jar file.
+update-in           Perform arbitrary transformations on your project map.
+upgrade             Upgrade Leiningen to specified version or latest stable.
+vcs                 Interact with the version control system.
+version             Print version for Leiningen and the current JVM.
+with-profile        Apply the given task with the profile(s) specified.
+
+Run `lein help $TASK` for details.
+
+Global Options:
+  -o             Run a task offline.
+  -U             Run a task after forcing update of snapshots.
+  -h, --help     Print this help or help for a specific task.
+  -v, --version  Print Leiningen's version.
+
+These aliases are available:
+downgrade, expands to upgrade
+
+See also: readme, faq, tutorial, news, sample, profiles, deploying, gpg,
+mixed-source, templates, and copying.
+c:\Users\rvaidya\Downloads\clojure-recipes\src\clojure_recipes>
+c:\Users\rvaidya\Downloads\clojure-recipes\src\clojure_recipes>
+c:\Users\rvaidya\Downloads\clojure-recipes\src\clojure_recipes>lein run
+lein run
+Exception in thread "main" java.lang.ClassNotFoundException: clojure-recipes.core, compiling:(clojure_recipes/core.clj:3:1)
+	at clojure.lang.Compiler.analyze(Compiler.java:6688)
+	at clojure.lang.Compiler.analyze(Compiler.java:6625)
+	at clojure.lang.Compiler$InvokeExpr.parse(Compiler.java:3834)
+	at clojure.lang.Compiler.analyzeSeq(Compiler.java:6870)
+	at clojure.lang.Compiler.analyze(Compiler.java:6669)
+	at clojure.lang.Compiler.analyze(Compiler.java:6625)
+	at clojure.lang.Compiler$BodyExpr$Parser.parse(Compiler.java:6001)
+	at clojure.lang.Compiler$FnMethod.parse(Compiler.java:5380)
+	at clojure.lang.Compiler$FnExpr.parse(Compiler.java:3972)
+	at clojure.lang.Compiler.analyzeSeq(Compiler.java:6866)
+	at clojure.lang.Compiler.analyze(Compiler.java:6669)
+	at clojure.lang.Compiler.eval(Compiler.java:6924)
+	at clojure.lang.Compiler.load(Compiler.java:7379)
+	at clojure.lang.RT.loadResourceScript(RT.java:372)
+	at clojure.lang.RT.loadResourceScript(RT.java:363)
+	at clojure.lang.RT.load(RT.java:453)
+	at clojure.lang.RT.load(RT.java:419)
+	at clojure.core$load$fn__5677.invoke(core.clj:5893)
+	at clojure.core$load.invokeStatic(core.clj:5892)
+	at clojure.core$load.doInvoke(core.clj:5876)
+	at clojure.lang.RestFn.invoke(RestFn.java:408)
+	at clojure.core$load_one.invokeStatic(core.clj:5697)
+	at clojure.core$load_one.invoke(core.clj:5692)
+	at clojure.core$load_lib$fn__5626.invoke(core.clj:5737)
+	at clojure.core$load_lib.invokeStatic(core.clj:5736)
+	at clojure.core$load_lib.doInvoke(core.clj:5717)
+	at clojure.lang.RestFn.applyTo(RestFn.java:142)
+	at clojure.core$apply.invokeStatic(core.clj:648)
+	at clojure.core$load_libs.invokeStatic(core.clj:5774)
+	at clojure.core$load_libs.doInvoke(core.clj:5758)
+	at clojure.lang.RestFn.applyTo(RestFn.java:137)
+	at clojure.core$apply.invokeStatic(core.clj:648)
+	at clojure.core$require.invokeStatic(core.clj:5796)
+	at clojure.core$require.doInvoke(core.clj:5796)
+	at clojure.lang.RestFn.invoke(RestFn.java:408)
+	at user$eval5$fn__7.invoke(form-init8950527209530241387.clj:1)
+	at user$eval5.invokeStatic(form-init8950527209530241387.clj:1)
+	at user$eval5.invoke(form-init8950527209530241387.clj:1)
+	at clojure.lang.Compiler.eval(Compiler.java:6927)
+	at clojure.lang.Compiler.eval(Compiler.java:6917)
+	at clojure.lang.Compiler.load(Compiler.java:7379)
+	at clojure.lang.Compiler.loadFile(Compiler.java:7317)
+	at clojure.main$load_script.invokeStatic(main.clj:275)
+	at clojure.main$init_opt.invokeStatic(main.clj:277)
+	at clojure.main$init_opt.invoke(main.clj:277)
+	at clojure.main$initialize.invokeStatic(main.clj:308)
+	at clojure.main$null_opt.invokeStatic(main.clj:342)
+	at clojure.main$null_opt.invoke(main.clj:339)
+	at clojure.main$main.invokeStatic(main.clj:421)
+	at clojure.main$main.doInvoke(main.clj:384)
+	at clojure.lang.RestFn.invoke(RestFn.java:421)
+	at clojure.lang.Var.invoke(Var.java:383)
+	at clojure.lang.AFn.applyToHelper(AFn.java:156)
+	at clojure.lang.Var.applyTo(Var.java:700)
+	at clojure.main.main(main.java:37)
+Caused by: java.lang.ClassNotFoundException: clojure-recipes.core
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at clojure.lang.DynamicClassLoader.findClass(DynamicClassLoader.java:69)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at clojure.lang.DynamicClassLoader.loadClass(DynamicClassLoader.java:77)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:348)
+	at clojure.lang.RT.classForName(RT.java:2168)
+	at clojure.lang.RT.classForName(RT.java:2177)
+	at clojure.lang.Compiler.resolveIn(Compiler.java:7145)
+	at clojure.lang.Compiler.resolve(Compiler.java:7108)
+	at clojure.lang.Compiler.analyzeSymbol(Compiler.java:7069)
+	at clojure.lang.Compiler.analyze(Compiler.java:6648)
+	... 54 more
+
+c:\Users\rvaidya\Downloads\clojure-recipes\src\clojure_recipes>lein run
+lein run
+Hello, World!
+c:\Users\rvaidya\Downloads\clojure-recipes\src\clojure_recipes>lein run
+lein run
+Hello, World!
+c:\Users\rvaidya\Downloads\clojure-recipes\src\clojure_recipes>lein run
+lein run
+Exception in thread "main" java.lang.RuntimeException: Unable to resolve symbol: printNumbers in this context, compiling:(clojure_recipes/core.clj:11:3)
+	at clojure.lang.Compiler.analyze(Compiler.java:6688)
+	at clojure.lang.Compiler.analyze(Compiler.java:6625)
+	at clojure.lang.Compiler$InvokeExpr.parse(Compiler.java:3766)
+	at clojure.lang.Compiler.analyzeSeq(Compiler.java:6870)
+	at clojure.lang.Compiler.analyze(Compiler.java:6669)
+	at clojure.lang.Compiler.analyze(Compiler.java:6625)
+	at clojure.lang.Compiler$BodyExpr$Parser.parse(Compiler.java:6001)
+	at clojure.lang.Compiler$FnMethod.parse(Compiler.java:5380)
+	at clojure.lang.Compiler$FnExpr.parse(Compiler.java:3972)
+	at clojure.lang.Compiler.analyzeSeq(Compiler.java:6866)
+	at clojure.lang.Compiler.analyze(Compiler.java:6669)
+	at clojure.lang.Compiler.analyzeSeq(Compiler.java:6856)
+	at clojure.lang.Compiler.analyze(Compiler.java:6669)
+	at clojure.lang.Compiler.access$300(Compiler.java:38)
+	at clojure.lang.Compiler$DefExpr$Parser.parse(Compiler.java:589)
+	at clojure.lang.Compiler.analyzeSeq(Compiler.java:6868)
+	at clojure.lang.Compiler.analyze(Compiler.java:6669)
+	at clojure.lang.Compiler.analyze(Compiler.java:6625)
+	at clojure.lang.Compiler.eval(Compiler.java:6931)
+	at clojure.lang.Compiler.load(Compiler.java:7379)
+	at clojure.lang.RT.loadResourceScript(RT.java:372)
+	at clojure.lang.RT.loadResourceScript(RT.java:363)
+	at clojure.lang.RT.load(RT.java:453)
+	at clojure.lang.RT.load(RT.java:419)
+	at clojure.core$load$fn__5677.invoke(core.clj:5893)
+	at clojure.core$load.invokeStatic(core.clj:5892)
+	at clojure.core$load.doInvoke(core.clj:5876)
+	at clojure.lang.RestFn.invoke(RestFn.java:408)
+	at clojure.core$load_one.invokeStatic(core.clj:5697)
+	at clojure.core$load_one.invoke(core.clj:5692)
+	at clojure.core$load_lib$fn__5626.invoke(core.clj:5737)
+	at clojure.core$load_lib.invokeStatic(core.clj:5736)
+	at clojure.core$load_lib.doInvoke(core.clj:5717)
+	at clojure.lang.RestFn.applyTo(RestFn.java:142)
+	at clojure.core$apply.invokeStatic(core.clj:648)
+	at clojure.core$load_libs.invokeStatic(core.clj:5774)
+	at clojure.core$load_libs.doInvoke(core.clj:5758)
+	at clojure.lang.RestFn.applyTo(RestFn.java:137)
+	at clojure.core$apply.invokeStatic(core.clj:648)
+	at clojure.core$require.invokeStatic(core.clj:5796)
+	at clojure.core$require.doInvoke(core.clj:5796)
+	at clojure.lang.RestFn.invoke(RestFn.java:408)
+	at user$eval5$fn__7.invoke(form-init5474114946540503414.clj:1)
+	at user$eval5.invokeStatic(form-init5474114946540503414.clj:1)
+	at user$eval5.invoke(form-init5474114946540503414.clj:1)
+	at clojure.lang.Compiler.eval(Compiler.java:6927)
+	at clojure.lang.Compiler.eval(Compiler.java:6917)
+	at clojure.lang.Compiler.load(Compiler.java:7379)
+	at clojure.lang.Compiler.loadFile(Compiler.java:7317)
+	at clojure.main$load_script.invokeStatic(main.clj:275)
+	at clojure.main$init_opt.invokeStatic(main.clj:277)
+	at clojure.main$init_opt.invoke(main.clj:277)
+	at clojure.main$initialize.invokeStatic(main.clj:308)
+	at clojure.main$null_opt.invokeStatic(main.clj:342)
+	at clojure.main$null_opt.invoke(main.clj:339)
+	at clojure.main$main.invokeStatic(main.clj:421)
+	at clojure.main$main.doInvoke(main.clj:384)
+	at clojure.lang.RestFn.invoke(RestFn.java:421)
+	at clojure.lang.Var.invoke(Var.java:383)
+	at clojure.lang.AFn.applyToHelper(AFn.java:156)
+	at clojure.lang.Var.applyTo(Var.java:700)
+	at clojure.main.main(main.java:37)
+Caused by: java.lang.RuntimeException: Unable to resolve symbol: printNumbers in this context
+	at clojure.lang.Util.runtimeException(Util.java:221)
+	at clojure.lang.Compiler.resolveIn(Compiler.java:7164)
+	at clojure.lang.Compiler.resolve(Compiler.java:7108)
+	at clojure.lang.Compiler.analyzeSymbol(Compiler.java:7069)
+	at clojure.lang.Compiler.analyze(Compiler.java:6648)
+	... 61 more
+
+c:\Users\rvaidya\Downloads\clojure-recipes\src\clojure_recipes>lein run
+lein run
+Exception in thread "main" java.lang.RuntimeException: Unable to resolve symbol: printNumbers in this context, compiling:(clojure_recipes/core.clj:11:3)
+	at clojure.lang.Compiler.analyze(Compiler.java:6688)
+	at clojure.lang.Compiler.analyze(Compiler.java:6625)
+	at clojure.lang.Compiler$InvokeExpr.parse(Compiler.java:3766)
+	at clojure.lang.Compiler.analyzeSeq(Compiler.java:6870)
+	at clojure.lang.Compiler.analyze(Compiler.java:6669)
+	at clojure.lang.Compiler.analyze(Compiler.java:6625)
+	at clojure.lang.Compiler$BodyExpr$Parser.parse(Compiler.java:6001)
+	at clojure.lang.Compiler$FnMethod.parse(Compiler.java:5380)
+	at clojure.lang.Compiler$FnExpr.parse(Compiler.java:3972)
+	at clojure.lang.Compiler.analyzeSeq(Compiler.java:6866)
+	at clojure.lang.Compiler.analyze(Compiler.java:6669)
+	at clojure.lang.Compiler.analyzeSeq(Compiler.java:6856)
+	at clojure.lang.Compiler.analyze(Compiler.java:6669)
+	at clojure.lang.Compiler.access$300(Compiler.java:38)
+	at clojure.lang.Compiler$DefExpr$Parser.parse(Compiler.java:589)
+	at clojure.lang.Compiler.analyzeSeq(Compiler.java:6868)
+	at clojure.lang.Compiler.analyze(Compiler.java:6669)
+	at clojure.lang.Compiler.analyze(Compiler.java:6625)
+	at clojure.lang.Compiler.eval(Compiler.java:6931)
+	at clojure.lang.Compiler.load(Compiler.java:7379)
+	at clojure.lang.RT.loadResourceScript(RT.java:372)
+	at clojure.lang.RT.loadResourceScript(RT.java:363)
+	at clojure.lang.RT.load(RT.java:453)
+	at clojure.lang.RT.load(RT.java:419)
+	at clojure.core$load$fn__5677.invoke(core.clj:5893)
+	at clojure.core$load.invokeStatic(core.clj:5892)
+	at clojure.core$load.doInvoke(core.clj:5876)
+	at clojure.lang.RestFn.invoke(RestFn.java:408)
+	at clojure.core$load_one.invokeStatic(core.clj:5697)
+	at clojure.core$load_one.invoke(core.clj:5692)
+	at clojure.core$load_lib$fn__5626.invoke(core.clj:5737)
+	at clojure.core$load_lib.invokeStatic(core.clj:5736)
+	at clojure.core$load_lib.doInvoke(core.clj:5717)
+	at clojure.lang.RestFn.applyTo(RestFn.java:142)
+	at clojure.core$apply.invokeStatic(core.clj:648)
+	at clojure.core$load_libs.invokeStatic(core.clj:5774)
+	at clojure.core$load_libs.doInvoke(core.clj:5758)
+	at clojure.lang.RestFn.applyTo(RestFn.java:137)
+	at clojure.core$apply.invokeStatic(core.clj:648)
+	at clojure.core$require.invokeStatic(core.clj:5796)
+	at clojure.core$require.doInvoke(core.clj:5796)
+	at clojure.lang.RestFn.invoke(RestFn.java:408)
+	at user$eval5$fn__7.invoke(form-init8538384291766838785.clj:1)
+	at user$eval5.invokeStatic(form-init8538384291766838785.clj:1)
+	at user$eval5.invoke(form-init8538384291766838785.clj:1)
+	at clojure.lang.Compiler.eval(Compiler.java:6927)
+	at clojure.lang.Compiler.eval(Compiler.java:6917)
+	at clojure.lang.Compiler.load(Compiler.java:7379)
+	at clojure.lang.Compiler.loadFile(Compiler.java:7317)
+	at clojure.main$load_script.invokeStatic(main.clj:275)
+	at clojure.main$init_opt.invokeStatic(main.clj:277)
+	at clojure.main$init_opt.invoke(main.clj:277)
+	at clojure.main$initialize.invokeStatic(main.clj:308)
+	at clojure.main$null_opt.invokeStatic(main.clj:342)
+	at clojure.main$null_opt.invoke(main.clj:339)
+	at clojure.main$main.invokeStatic(main.clj:421)
+	at clojure.main$main.doInvoke(main.clj:384)
+	at clojure.lang.RestFn.invoke(RestFn.java:421)
+	at clojure.lang.Var.invoke(Var.java:383)
+	at clojure.lang.AFn.applyToHelper(AFn.java:156)
+	at clojure.lang.Var.applyTo(Var.java:700)
+	at clojure.main.main(main.java:37)
+Caused by: java.lang.RuntimeException: Unable to resolve symbol: printNumbers in this context
+	at clojure.lang.Util.runtimeException(Util.java:221)
+	at clojure.lang.Compiler.resolveIn(Compiler.java:7164)
+	at clojure.lang.Compiler.resolve(Compiler.java:7108)
+	at clojure.lang.Compiler.analyzeSymbol(Compiler.java:7069)
+	at clojure.lang.Compiler.analyze(Compiler.java:6648)
+	... 61 more
+
+c:\Users\rvaidya\Downloads\clojure-recipes\src\clojure_recipes>lein run
+lein run
+Hello, World!
+c:\Users\rvaidya\Downloads\clojure-recipes\src\clojure_recipes>lein run
+lein run
+Hello, World!
+c:\Users\rvaidya\Downloads\clojure-recipes\src\clojure_recipes>lein run
+lein run
+Exception in thread "main" java.lang.RuntimeException: Unable to resolve symbol: printNumbers in this context, compiling:(clojure_recipes/core.clj:11:3)
+	at clojure.lang.Compiler.analyze(Compiler.java:6688)
+	at clojure.lang.Compiler.analyze(Compiler.java:6625)
+	at clojure.lang.Compiler$InvokeExpr.parse(Compiler.java:3766)
+	at clojure.lang.Compiler.analyzeSeq(Compiler.java:6870)
+	at clojure.lang.Compiler.analyze(Compiler.java:6669)
+	at clojure.lang.Compiler.analyze(Compiler.java:6625)
+	at clojure.lang.Compiler$BodyExpr$Parser.parse(Compiler.java:6001)
+	at clojure.lang.Compiler$FnMethod.parse(Compiler.java:5380)
+	at clojure.lang.Compiler$FnExpr.parse(Compiler.java:3972)
+	at clojure.lang.Compiler.analyzeSeq(Compiler.java:6866)
+	at clojure.lang.Compiler.analyze(Compiler.java:6669)
+	at clojure.lang.Compiler.analyzeSeq(Compiler.java:6856)
+	at clojure.lang.Compiler.analyze(Compiler.java:6669)
+	at clojure.lang.Compiler.access$300(Compiler.java:38)
+	at clojure.lang.Compiler$DefExpr$Parser.parse(Compiler.java:589)
+	at clojure.lang.Compiler.analyzeSeq(Compiler.java:6868)
+	at clojure.lang.Compiler.analyze(Compiler.java:6669)
+	at clojure.lang.Compiler.analyze(Compiler.java:6625)
+	at clojure.lang.Compiler.eval(Compiler.java:6931)
+	at clojure.lang.Compiler.load(Compiler.java:7379)
+	at clojure.lang.RT.loadResourceScript(RT.java:372)
+	at clojure.lang.RT.loadResourceScript(RT.java:363)
+	at clojure.lang.RT.load(RT.java:453)
+	at clojure.lang.RT.load(RT.java:419)
+	at clojure.core$load$fn__5677.invoke(core.clj:5893)
+	at clojure.core$load.invokeStatic(core.clj:5892)
+	at clojure.core$load.doInvoke(core.clj:5876)
+	at clojure.lang.RestFn.invoke(RestFn.java:408)
+	at clojure.core$load_one.invokeStatic(core.clj:5697)
+	at clojure.core$load_one.invoke(core.clj:5692)
+	at clojure.core$load_lib$fn__5626.invoke(core.clj:5737)
+	at clojure.core$load_lib.invokeStatic(core.clj:5736)
+	at clojure.core$load_lib.doInvoke(core.clj:5717)
+	at clojure.lang.RestFn.applyTo(RestFn.java:142)
+	at clojure.core$apply.invokeStatic(core.clj:648)
+	at clojure.core$load_libs.invokeStatic(core.clj:5774)
+	at clojure.core$load_libs.doInvoke(core.clj:5758)
+	at clojure.lang.RestFn.applyTo(RestFn.java:137)
+	at clojure.core$apply.invokeStatic(core.clj:648)
+	at clojure.core$require.invokeStatic(core.clj:5796)
+	at clojure.core$require.doInvoke(core.clj:5796)
+	at clojure.lang.RestFn.invoke(RestFn.java:408)
+	at user$eval5$fn__7.invoke(form-init2350222073568414050.clj:1)
+	at user$eval5.invokeStatic(form-init2350222073568414050.clj:1)
+	at user$eval5.invoke(form-init2350222073568414050.clj:1)
+	at clojure.lang.Compiler.eval(Compiler.java:6927)
+	at clojure.lang.Compiler.eval(Compiler.java:6917)
+	at clojure.lang.Compiler.load(Compiler.java:7379)
+	at clojure.lang.Compiler.loadFile(Compiler.java:7317)
+	at clojure.main$load_script.invokeStatic(main.clj:275)
+	at clojure.main$init_opt.invokeStatic(main.clj:277)
+	at clojure.main$init_opt.invoke(main.clj:277)
+	at clojure.main$initialize.invokeStatic(main.clj:308)
+	at clojure.main$null_opt.invokeStatic(main.clj:342)
+	at clojure.main$null_opt.invoke(main.clj:339)
+	at clojure.main$main.invokeStatic(main.clj:421)
+	at clojure.main$main.doInvoke(main.clj:384)
+	at clojure.lang.RestFn.invoke(RestFn.java:421)
+	at clojure.lang.Var.invoke(Var.java:383)
+	at clojure.lang.AFn.applyToHelper(AFn.java:156)
+	at clojure.lang.Var.applyTo(Var.java:700)
+	at clojure.main.main(main.java:37)
+Caused by: java.lang.RuntimeException: Unable to resolve symbol: printNumbers in this context
+	at clojure.lang.Util.runtimeException(Util.java:221)
+	at clojure.lang.Compiler.resolveIn(Compiler.java:7164)
+	at clojure.lang.Compiler.resolve(Compiler.java:7108)
+	at clojure.lang.Compiler.analyzeSymbol(Compiler.java:7069)
+	at clojure.lang.Compiler.analyze(Compiler.java:6648)
+	... 61 more
+
+c:\Users\rvaidya\Downloads\clojure-recipes\src\clojure_recipes>lein run
+lein run
+Exception in thread "main" java.lang.RuntimeException: Unable to resolve symbol: printNumbers in this context, compiling:(clojure_recipes/core.clj:11:3)
+	at clojure.lang.Compiler.analyze(Compiler.java:6688)
+	at clojure.lang.Compiler.analyze(Compiler.java:6625)
+	at clojure.lang.Compiler$InvokeExpr.parse(Compiler.java:3766)
+	at clojure.lang.Compiler.analyzeSeq(Compiler.java:6870)
+	at clojure.lang.Compiler.analyze(Compiler.java:6669)
+	at clojure.lang.Compiler.analyze(Compiler.java:6625)
+	at clojure.lang.Compiler$BodyExpr$Parser.parse(Compiler.java:6001)
+	at clojure.lang.Compiler$FnMethod.parse(Compiler.java:5380)
+	at clojure.lang.Compiler$FnExpr.parse(Compiler.java:3972)
+	at clojure.lang.Compiler.analyzeSeq(Compiler.java:6866)
+	at clojure.lang.Compiler.analyze(Compiler.java:6669)
+	at clojure.lang.Compiler.analyzeSeq(Compiler.java:6856)
+	at clojure.lang.Compiler.analyze(Compiler.java:6669)
+	at clojure.lang.Compiler.access$300(Compiler.java:38)
+	at clojure.lang.Compiler$DefExpr$Parser.parse(Compiler.java:589)
+	at clojure.lang.Compiler.analyzeSeq(Compiler.java:6868)
+	at clojure.lang.Compiler.analyze(Compiler.java:6669)
+	at clojure.lang.Compiler.analyze(Compiler.java:6625)
+	at clojure.lang.Compiler.eval(Compiler.java:6931)
+	at clojure.lang.Compiler.load(Compiler.java:7379)
+	at clojure.lang.RT.loadResourceScript(RT.java:372)
+	at clojure.lang.RT.loadResourceScript(RT.java:363)
+	at clojure.lang.RT.load(RT.java:453)
+	at clojure.lang.RT.load(RT.java:419)
+	at clojure.core$load$fn__5677.invoke(core.clj:5893)
+	at clojure.core$load.invokeStatic(core.clj:5892)
+	at clojure.core$load.doInvoke(core.clj:5876)
+	at clojure.lang.RestFn.invoke(RestFn.java:408)
+	at clojure.core$load_one.invokeStatic(core.clj:5697)
+	at clojure.core$load_one.invoke(core.clj:5692)
+	at clojure.core$load_lib$fn__5626.invoke(core.clj:5737)
+	at clojure.core$load_lib.invokeStatic(core.clj:5736)
+	at clojure.core$load_lib.doInvoke(core.clj:5717)
+	at clojure.lang.RestFn.applyTo(RestFn.java:142)
+	at clojure.core$apply.invokeStatic(core.clj:648)
+	at clojure.core$load_libs.invokeStatic(core.clj:5774)
+	at clojure.core$load_libs.doInvoke(core.clj:5758)
+	at clojure.lang.RestFn.applyTo(RestFn.java:137)
+	at clojure.core$apply.invokeStatic(core.clj:648)
+	at clojure.core$require.invokeStatic(core.clj:5796)
+	at clojure.core$require.doInvoke(core.clj:5796)
+	at clojure.lang.RestFn.invoke(RestFn.java:408)
+	at user$eval5$fn__7.invoke(form-init2940140678581346529.clj:1)
+	at user$eval5.invokeStatic(form-init2940140678581346529.clj:1)
+	at user$eval5.invoke(form-init2940140678581346529.clj:1)
+	at clojure.lang.Compiler.eval(Compiler.java:6927)
+	at clojure.lang.Compiler.eval(Compiler.java:6917)
+	at clojure.lang.Compiler.load(Compiler.java:7379)
+	at clojure.lang.Compiler.loadFile(Compiler.java:7317)
+	at clojure.main$load_script.invokeStatic(main.clj:275)
+	at clojure.main$init_opt.invokeStatic(main.clj:277)
+	at clojure.main$init_opt.invoke(main.clj:277)
+	at clojure.main$initialize.invokeStatic(main.clj:308)
+	at clojure.main$null_opt.invokeStatic(main.clj:342)
+	at clojure.main$null_opt.invoke(main.clj:339)
+	at clojure.main$main.invokeStatic(main.clj:421)
+	at clojure.main$main.doInvoke(main.clj:384)
+	at clojure.lang.RestFn.invoke(RestFn.java:421)
+	at clojure.lang.Var.invoke(Var.java:383)
+	at clojure.lang.AFn.applyToHelper(AFn.java:156)
+	at clojure.lang.Var.applyTo(Var.java:700)
+	at clojure.main.main(main.java:37)
+Caused by: java.lang.RuntimeException: Unable to resolve symbol: printNumbers in this context
+	at clojure.lang.Util.runtimeException(Util.java:221)
+	at clojure.lang.Compiler.resolveIn(Compiler.java:7164)
+	at clojure.lang.Compiler.resolve(Compiler.java:7108)
+	at clojure.lang.Compiler.analyzeSymbol(Compiler.java:7069)
+	at clojure.lang.Compiler.analyze(Compiler.java:6648)
+	... 61 more
+
+c:\Users\rvaidya\Downloads\clojure-recipes\src\clojure_recipes>lein run
+lein run
+Exception in thread "main" java.lang.RuntimeException: Unable to resolve symbol: printNumbers in this context, compiling:(clojure_recipes/core.clj:11:3)
+	at clojure.lang.Compiler.analyze(Compiler.java:6688)
+	at clojure.lang.Compiler.analyze(Compiler.java:6625)
+	at clojure.lang.Compiler$InvokeExpr.parse(Compiler.java:3766)
+	at clojure.lang.Compiler.analyzeSeq(Compiler.java:6870)
+	at clojure.lang.Compiler.analyze(Compiler.java:6669)
+	at clojure.lang.Compiler.analyze(Compiler.java:6625)
+	at clojure.lang.Compiler$BodyExpr$Parser.parse(Compiler.java:6001)
+	at clojure.lang.Compiler$FnMethod.parse(Compiler.java:5380)
+	at clojure.lang.Compiler$FnExpr.parse(Compiler.java:3972)
+	at clojure.lang.Compiler.analyzeSeq(Compiler.java:6866)
+	at clojure.lang.Compiler.analyze(Compiler.java:6669)
+	at clojure.lang.Compiler.analyzeSeq(Compiler.java:6856)
+	at clojure.lang.Compiler.analyze(Compiler.java:6669)
+	at clojure.lang.Compiler.access$300(Compiler.java:38)
+	at clojure.lang.Compiler$DefExpr$Parser.parse(Compiler.java:589)
+	at clojure.lang.Compiler.analyzeSeq(Compiler.java:6868)
+	at clojure.lang.Compiler.analyze(Compiler.java:6669)
+	at clojure.lang.Compiler.analyze(Compiler.java:6625)
+	at clojure.lang.Compiler.eval(Compiler.java:6931)
+	at clojure.lang.Compiler.load(Compiler.java:7379)
+	at clojure.lang.RT.loadResourceScript(RT.java:372)
+	at clojure.lang.RT.loadResourceScript(RT.java:363)
+	at clojure.lang.RT.load(RT.java:453)
+	at clojure.lang.RT.load(RT.java:419)
+	at clojure.core$load$fn__5677.invoke(core.clj:5893)
+	at clojure.core$load.invokeStatic(core.clj:5892)
+	at clojure.core$load.doInvoke(core.clj:5876)
+	at clojure.lang.RestFn.invoke(RestFn.java:408)
+	at clojure.core$load_one.invokeStatic(core.clj:5697)
+	at clojure.core$load_one.invoke(core.clj:5692)
+	at clojure.core$load_lib$fn__5626.invoke(core.clj:5737)
+	at clojure.core$load_lib.invokeStatic(core.clj:5736)
+	at clojure.core$load_lib.doInvoke(core.clj:5717)
+	at clojure.lang.RestFn.applyTo(RestFn.java:142)
+	at clojure.core$apply.invokeStatic(core.clj:648)
+	at clojure.core$load_libs.invokeStatic(core.clj:5774)
+	at clojure.core$load_libs.doInvoke(core.clj:5758)
+	at clojure.lang.RestFn.applyTo(RestFn.java:137)
+	at clojure.core$apply.invokeStatic(core.clj:648)
+	at clojure.core$require.invokeStatic(core.clj:5796)
+	at clojure.core$require.doInvoke(core.clj:5796)
+	at clojure.lang.RestFn.invoke(RestFn.java:408)
+	at user$eval5$fn__7.invoke(form-init2175458568941067103.clj:1)
+	at user$eval5.invokeStatic(form-init2175458568941067103.clj:1)
+	at user$eval5.invoke(form-init2175458568941067103.clj:1)
+	at clojure.lang.Compiler.eval(Compiler.java:6927)
+	at clojure.lang.Compiler.eval(Compiler.java:6917)
+	at clojure.lang.Compiler.load(Compiler.java:7379)
+	at clojure.lang.Compiler.loadFile(Compiler.java:7317)
+	at clojure.main$load_script.invokeStatic(main.clj:275)
+	at clojure.main$init_opt.invokeStatic(main.clj:277)
+	at clojure.main$init_opt.invoke(main.clj:277)
+	at clojure.main$initialize.invokeStatic(main.clj:308)
+	at clojure.main$null_opt.invokeStatic(main.clj:342)
+	at clojure.main$null_opt.invoke(main.clj:339)
+	at clojure.main$main.invokeStatic(main.clj:421)
+	at clojure.main$main.doInvoke(main.clj:384)
+	at clojure.lang.RestFn.invoke(RestFn.java:421)
+	at clojure.lang.Var.invoke(Var.java:383)
+	at clojure.lang.AFn.applyToHelper(AFn.java:156)
+	at clojure.lang.Var.applyTo(Var.java:700)
+	at clojure.main.main(main.java:37)
+Caused by: java.lang.RuntimeException: Unable to resolve symbol: printNumbers in this context
+	at clojure.lang.Util.runtimeException(Util.java:221)
+	at clojure.lang.Compiler.resolveIn(Compiler.java:7164)
+	at clojure.lang.Compiler.resolve(Compiler.java:7108)
+	at clojure.lang.Compiler.analyzeSymbol(Compiler.java:7069)
+	at clojure.lang.Compiler.analyze(Compiler.java:6648)
+	... 61 more
+
+c:\Users\rvaidya\Downloads\clojure-recipes\src\clojure_recipes>lein run
+lein run
+Hello, World!
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Done!
+c:\Users\rvaidya\Downloads\clojure-recipes\src\clojure_recipes>lein test
+lein test
+
+lein test clojure-recipes.core-test
+Hello, World!
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Done!
+
+lein test :only clojure-recipes.core-test/test-loop
+
+FAIL in (test-loop) (core_test.clj:11)
+Testing the loop
+expected: (= "Hello, World!" (-main))
+  actual: (not (= "Hello, World!" nil))
+
+lein test :only clojure-recipes.core-test/a-test
+
+FAIL in (a-test) (core_test.clj:7)l
+FIXME, I fail.
+expected: (= 0 1)
+  actual: (not (= 0 1))
+
+Ran 2 tests containing 2 assertions.
+2 failures, 0 errors.
+Tests failed.
+
+c:\Users\rvaidya\Downloads\clojure-recipes\src\clojure_recipes>lein test
+lein test
+
+lein test clojure-recipes.core-test
+Hello, World!
+
+lein test :only clojure-recipes.core-test/test-loop
+
+FAIL in (test-loop) (core_test.clj:11)
+Testing the loop
+expected: (= "Hello, World!" (-main))
+  actual: (not (= "Hello, World!" nil))
+
+lein test :only clojure-recipes.core-test/a-test
+
+FAIL in (a-test) (core_test.clj:7)
+FIXME, I fail.
+expected: (= 0 1)
+  actual: (not (= 0 1))
+
+Ran 2 tests containing 2 assertions.
+2 failures, 0 errors.
+Tests failed.
+
+c:\Users\rvaidya\Downloads\clojure-recipes\src\clojure_recipes>lein repl
+lein repl
+nREPL server started on port 49807 on host 127.0.0.1 - nrepl://127.0.0.1:49807
+REPL-y 0.3.7, nREPL 0.2.12
+Clojure 1.8.0
+Java HotSpot(TM) 64-Bit Server VM 1.8.0_92-b14
+    Docs: (doc function-name-here)
+          (find-doc "part-of-name-here")
+  Source: (source function-name-here)
+ Javadoc: (javadoc java-object-or-class-here)
+    Exit: Control+D or (exit) or (quit)
+ Results: Stored in vars *1, *2, *3, an exception in *e
+
+clojure-recipes.cor
+
+
+clojure-recipes.cor
+
+
+
+
+
+
+
+  C-c C-ccc
+
+
+
+
+
