@@ -18,3 +18,14 @@
   (testing "Testing square function"
     (is (= 4 (square 2)))))
 
+(deftest areaTest
+  (testing "Testing a multi arity function"
+    (is (= 2 (area 2)))))
+
+(deftest areaTest
+  (testing "Testing a multi arity function"
+    (is (= 15 (area 5 3)))))
+
+(deftest factorialTest
+  (testing "Factorial of a n"
+    (is (= 120 (factorial 5)))))
