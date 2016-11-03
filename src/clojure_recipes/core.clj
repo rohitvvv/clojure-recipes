@@ -4,6 +4,7 @@
 
 (load "basic_functions")
 (load "loops")
+(load "math_functions")
 
 (defn -main
   "I don't do a whole lot ... yet."

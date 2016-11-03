@@ -1,2 +1,0 @@
-(ns clojure-recipes.core
-  (:gen-class))

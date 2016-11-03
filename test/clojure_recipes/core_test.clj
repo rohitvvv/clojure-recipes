@@ -14,5 +14,7 @@
   (testing "Testing greet function"
     (is (= "Hello Rohit" (greet "Rohit")))))
 
-
+(deftest squareTest
+  (testing "Testing square function"
+    (is (= 4 (square 2)))))
 

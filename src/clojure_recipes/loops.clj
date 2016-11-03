@@ -9,3 +9,11 @@
      (printNumbers (inc x))
      )))
 
+(defn printLoopNumbers
+  "loop recur - efficient way to do recusion with clojure"
+  [](loop [x 0]
+    (println x)
+    (if (< x 10) (recur (inc x))
+        (println "Done!"))))
+
+
