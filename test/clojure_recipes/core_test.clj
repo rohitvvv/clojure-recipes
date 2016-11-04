@@ -28,4 +28,12 @@
 
 (deftest factorialTest
   (testing "Factorial of a n"
-    (is (= 120 (factorial 5)))))
+    (is (= 120 (factorial 5)))
+    (is (= 1 (factorial 0)))))
+
+(deftest fibnTest
+  (testing "Fibn: nth fibonacii number"
+    (is (= 2 (fibn 1)))
+    (is (= 5 (fibn 3)))
+    (is (= 13 (fibn 5)))))
+

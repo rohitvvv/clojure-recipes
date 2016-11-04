@@ -21,6 +21,16 @@
         (recur (inc i) (* partialResult i))
         partialResult))))
 
+
+(defn fibn
+  "Find nth fibonacii"
+  [n]
+  (loop [index 0 x 1 y 1]
+  (if (= index n)
+    y ; return y
+   (recur (inc index) y (+ x y)))))
+
+
                
 
 
