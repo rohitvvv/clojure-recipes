@@ -37,3 +37,20 @@
     (is (= 5 (fibn 3)))
     (is (= 13 (fibn 5)))))
 
+(deftest isPrimeTest
+  (testing "Primality test"
+    (is (true? (isPrime 2)))
+    (is (true? (isPrime 5)))
+    (is (not (true? (isPrime 6))))
+    (is (true? (isPrime 151)))))
+
+
+
+
+
+
+
+
+
+
+

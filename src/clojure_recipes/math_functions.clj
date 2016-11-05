@@ -31,6 +31,25 @@
    (recur (inc index) y (+ x y)))))
 
 
-               
+(defn isDivisible
+     "Returns true if x is divisible by y. False otherwsie"
+     [x y]
+     (if(= 0 (mod x y))
+       Boolean/TRUE
+       Boolean/FALSE))                      
 
+
+(defn isPrime 
+    "Find if a number n is prime"
+     [n]
+     (if (nil? (loop [i 2]
+       (if (< i  n)
+         (if (isDivisible n i)
+             Boolean/FALSE 
+             (recur (inc i))))))
+       Boolean/TRUE
+       Boolean/FALSE))
+
+
+    
 
