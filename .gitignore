@@ -1,6 +1,6 @@
 *~
 #*#
-target\
 target/
+target\
 .nrepl-port
 .lein-repl-history
