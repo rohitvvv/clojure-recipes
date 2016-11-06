@@ -21,6 +21,11 @@
         (recur (inc i) (* partialResult i))
         partialResult))))
 
+;Clojure style factorial
+(defn factorialReduce
+  "Calculate factorial"
+  ([x]
+  (reduce * (range 1  (inc x)))))
 
 (defn fibn
   "Find nth fibonacii"

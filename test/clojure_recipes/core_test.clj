@@ -31,6 +31,12 @@
     (is (= 120 (factorial 5)))
     (is (= 1 (factorial 0)))))
 
+(deftest factorialTest
+  (testing "Factorial of a n"
+    (is (= (factorial 5) (factorialReduce 5)))
+    (is (= (factorial 1) (factorialReduce 0)))
+    (is (= (factorial 10) (factorialReduce 10)))))
+
 (deftest fibnTest
   (testing "Fibn: nth fibonacii number"
     (is (= 2 (fibn 1)))
@@ -43,7 +49,6 @@
     (is (true? (isPrime 5)))
     (is (not (true? (isPrime 6))))
     (is (true? (isPrime 151)))))
-
 
 
 
