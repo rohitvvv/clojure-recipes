@@ -4,3 +4,13 @@
   "Prints name passed"
   [name]
   (str "Hello " name))
+
+(def addAnonymous #(+ 2 %))
+
+(defn incrementer
+  "Create a configurable incrementer"
+  [increment]
+  #(+ % increment)) ;Function factory. Returning anonymous function
+  
+
+

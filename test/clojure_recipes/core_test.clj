@@ -34,7 +34,7 @@
 (deftest factorialTest
   (testing "Factorial of a n"
     (is (= (factorial 5) (factorialReduce 5)))
-    (is (= (factorial 1) (factorialReduce 0)))
+    (is (= (factorial 1) (factorialReduce 1)))
     (is (= (factorial 10) (factorialReduce 10)))))
 
 (deftest fibnTest
@@ -51,10 +51,19 @@
     (is (true? (isPrime 151)))))
 
 
+(deftest addAnonymousTest
+  (testing "Testing an anonymous function"
+    (is (= 4 (addAnonymous 2)))))
 
 
-
-
+(deftest incrementerTest
+  (testing "Testing a incrementer"
+    (def inc2 (incrementer 2))
+    (is (= 4 (inc2 2)))
+    (is (= 10 (inc2 8)))
+    (def inc5 (incrementer 5))
+    (is (= 5 (inc5 0)))
+    (is (= 10 (inc5 5)))))
 
 
 
