@@ -65,6 +65,12 @@
     (is (= 5 (inc5 0)))
     (is (= 10 (inc5 5)))))
 
+(deftest mapTest
+  (testing "Testing a squareMap function"
+    (def numbers [1 2 3])
+    (is (= [1 4 9] (mapsquare numbers)))))
 
 
-
+(deftest mapNamesTest
+  (testing "Testing a mapNamesFunction. It joins the string in a sequence"
+    (is (= '("Rohit Vaidya" "John Rogers") (mapNames ["Rohit" "John"] ["Vaidya" "Rogers"])))))
