@@ -11,6 +11,12 @@
   "Create a configurable incrementer"
   [increment]
   #(+ % increment)) ;Function factory. Returning anonymous function
-  
+
+(defn toUpper
+  [string]
+  (.toUpperCase string))
+
+(map toUpper (.split "i love clojure" " "))
+
 
 

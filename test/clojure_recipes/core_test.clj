@@ -4,7 +4,7 @@
 
 (deftest test-main
   (testing "Testing the loop"
-    (is (= "Hello, World!" (-main)))))
+    (is (= "Hello, World!" (-main)))))77
 
 (deftest add-test
   (testing "Testing addition operation"
@@ -79,3 +79,8 @@
 (deftest mapTestStrings
   (testing "Testing something"
     (is (= '("I" "LOVE" "CLOJURE") (map toUpper (splitString "i love clojure" " "))))))
+
+
+(deftest immutabilityTest
+  (testing "Immutability"
+    (is (= '(11 19 31 10 20 30) (immutabilityfn)))))
