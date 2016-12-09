@@ -13,3 +13,15 @@
   "Function used fullNames function. Accepts FirstName and LastName and returns map for each"
   [FirstNamesList LastNamesList]
   (map fullNames FirstNamesList LastNamesList))
+
+(defn toUpper
+  [string]
+  (.toUpperCase string))
+
+(defn splitString
+  [str delimeter]
+  (.split str delimeter))
+
+
+
+

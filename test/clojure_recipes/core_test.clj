@@ -74,3 +74,8 @@
 (deftest mapNamesTest
   (testing "Testing a mapNamesFunction. It joins the string in a sequence"
     (is (= '("Rohit Vaidya" "John Rogers") (mapNames ["Rohit" "John"] ["Vaidya" "Rogers"])))))
+
+
+(deftest mapTestStrings
+  (testing "Testing something"
+    (is (= '("I" "LOVE" "CLOJURE") (map toUpper (splitString "i love clojure" " "))))))
