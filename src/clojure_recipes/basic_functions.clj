@@ -17,6 +17,3 @@
   (.toUpperCase string))
 
 (map toUpper (.split "i love clojure" " "))
-
-
-
